@@ -1,0 +1,57 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "SubscribeEbook",
+  "primary": {
+   "resourceImage": {
+      "dimensions": {
+        "width": 2594,
+        "height": 1422
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/with-love-charity/ab7dde82-1805-4a3c-b4e4-48d1cbd78d5f_smartmockups_khp7d24b.png?auto=compress,format"
+    },
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Subscribe Now and Get Our Free E-Book!",
+        "spans": []
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Learn more about community work and how you can integrate it into your workspace. Don't miss out on how you can increase positivity and productivity in your organization. Yours free as a thank-you for supporting our life-changing work!",
+        "spans": []
+      }
+    ],
+    "emailPlaceholder": [
+      {
+        "type": "paragraph",
+        "text": "Your Email",
+        "spans": []
+      }
+    ],
+    "subscribeButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Subscribe",
+        "spans": []
+      }
+    ],
+    "resourceDownloadFile": {
+      "link_type": "Media"
+    },
+    "privacyText": [
+      {
+        "type": "paragraph",
+        "text": "By subscribing, I agree to the Terms of Use and the Privacy Policy.",
+        "spans": []
+      }
+    ]
+  },
+  "slice_type": "subscribe_ebook"
+}]

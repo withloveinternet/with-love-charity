@@ -1,0 +1,222 @@
+[
+    {
+        "id": "default-slice",
+        "name": "Default slice",
+        "docURL": "...",
+        "version": "sktwi1xtmkfgx8626",
+        "description": "HomepageHero",
+        "primary": {
+            "backgroundImage": {
+              "dimensions": {
+                "width": 4320,
+                "height": 2478
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/with-love-charity/e80c0af0-9724-4d71-a34c-96e8b360f280_6babf291-46ba-4b26-8b33-00b579df12bd_9adb8e9ab813f7ebc88eecc17135793668cc3bc7.jpeg?auto=compress,format&rect=0,1,4318,2477&w=4320&h=2478"
+            },
+            "preTitle": [
+              {
+                "type": "heading3",
+                "text": "WITH LOVE Charity",
+                "spans": []
+              }
+            ],
+            "title1": [
+              {
+                "type": "heading1",
+                "text": "Practical Acts of Compassion",
+                "spans": []
+              }
+            ],
+            "title2": [
+              {
+                "type": "heading1",
+                "text": "Make the World a Better Place",
+                "spans": []
+              }
+            ],
+            "point1": [
+              {
+                "type": "paragraph",
+                "text": "Spreading love",
+                "spans": []
+              }
+            ],
+            "point2": [
+              {
+                "type": "paragraph",
+                "text": "Giving hope",
+                "spans": []
+              }
+            ],
+            "point3": [
+              {
+                "type": "paragraph",
+                "text": "Changing lives",
+                "spans": []
+              }
+            ],
+            "primaryCtaButtonText": [
+              {
+                "type": "paragraph",
+                "text": "Contact",
+                "spans": []
+              }
+            ],
+            "primaryCtaButtonLink": {
+              "id": "X7be2xIAALkqsXMS",
+              "type": "page",
+              "tags": [],
+              "slug": "contact-us",
+              "lang": "en-us",
+              "uid": "contact",
+              "link_type": "Document",
+              "isBroken": false
+            },
+            "secondaryCtaButtonText": [
+              {
+                "type": "paragraph",
+                "text": "Learn More",
+                "spans": []
+              }
+            ],
+            "secondaryButtonType": false,
+            "secondaryCtaButtonLink": {
+              "id": "X7ZlABIAALwJr1tb",
+              "type": "page",
+              "tags": [],
+              "slug": "work--projects",
+              "lang": "en-us",
+              "uid": "projects",
+              "link_type": "Document",
+              "isBroken": false
+            },
+            "vimeoLink": {}
+          },
+        "items": [],
+        "slice_type": "homepage_hero"
+    },
+    {
+        "id": "default-slice",
+        "name": "Video Instead of Link",
+        "docURL": "...",
+        "version": "sktwi1xtmkfgx8626",
+        "description": "HomepageHero",
+        "primary": {
+            "backgroundImage": {
+              "dimensions": {
+                "width": 4320,
+                "height": 2478
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/with-love-charity/e80c0af0-9724-4d71-a34c-96e8b360f280_6babf291-46ba-4b26-8b33-00b579df12bd_9adb8e9ab813f7ebc88eecc17135793668cc3bc7.jpeg?auto=compress,format&rect=0,1,4318,2477&w=4320&h=2478"
+            },
+            "preTitle": [
+              {
+                "type": "heading3",
+                "text": "WITH LOVE Charity",
+                "spans": []
+              }
+            ],
+            "title1": [
+              {
+                "type": "heading1",
+                "text": "Practical Acts of Compassion",
+                "spans": []
+              }
+            ],
+            "title2": [
+              {
+                "type": "heading1",
+                "text": "Make the World a Better Place",
+                "spans": []
+              }
+            ],
+            "point1": [
+              {
+                "type": "paragraph",
+                "text": "Spreading love",
+                "spans": []
+              }
+            ],
+            "point2": [
+              {
+                "type": "paragraph",
+                "text": "Giving hope",
+                "spans": []
+              }
+            ],
+            "point3": [
+              {
+                "type": "paragraph",
+                "text": "Changing lives",
+                "spans": []
+              }
+            ],
+            "primaryCtaButtonText": [
+              {
+                "type": "paragraph",
+                "text": "Contact",
+                "spans": []
+              }
+            ],
+            "primaryCtaButtonLink": {
+              "id": "X7be2xIAALkqsXMS",
+              "type": "page",
+              "tags": [],
+              "slug": "contact-us",
+              "lang": "en-us",
+              "uid": "contact",
+              "link_type": "Document",
+              "isBroken": false
+            },
+            "secondaryCtaButtonText": [
+              {
+                "type": "paragraph",
+                "text": "Watch Video",
+                "spans": []
+              }
+            ],
+            "secondaryButtonType": true,
+            "secondaryCtaButtonLink": {
+              "id": "X7ZlABIAALwJr1tb",
+              "type": "page",
+              "tags": [],
+              "slug": "work--projects",
+              "lang": "en-us",
+              "uid": "projects",
+              "link_type": "Document",
+              "isBroken": false
+            },
+            "vimeoLink": {
+                "is_plus": "0",
+                "account_type": "pro",
+                "width": 426,
+                "height": 240,
+                "duration": 446,
+                "description": "",
+                "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F866663787_295x166.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+                "upload_date": "2020-03-19 07:23:32",
+                "video_id": 398794337,
+                "uri": "/videos/398794337",
+                "embed_url": "https://vimeo.com/398794337",
+                "type": "video",
+                "version": "1.0",
+                "title": "Slice Machine Intro",
+                "author_name": "Prismic",
+                "author_url": "https://vimeo.com/user20883712",
+                "provider_name": "Vimeo",
+                "provider_url": "https://vimeo.com/",
+                "cache_age": null,
+                "thumbnail_url": "https://i.vimeocdn.com/video/866663787_295x166.jpg",
+                "thumbnail_width": 295,
+                "thumbnail_height": 166,
+                "html": "<iframe src=\"https://player.vimeo.com/video/398794337?app_id=122963\" width=\"426\" height=\"240\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Slice Machine Intro\"></iframe>"
+              }
+          },
+        "items": [],
+        "slice_type": "homepage_hero"
+    }
+]

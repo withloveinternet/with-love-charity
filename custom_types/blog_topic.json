@@ -1,0 +1,53 @@
+{
+  "Main" : {
+    "topic_name" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Topic Name",
+        "placeholder" : "Topic Name"
+      }
+    },
+    "uid" : {
+      "type" : "UID",
+      "config" : {
+        "label" : "Slug",
+        "placeholder" : "Slug"
+      }
+    },
+    "subtitle" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Subtitle",
+        "placeholder" : "Subtitle"
+      }
+    }
+  },
+  "SEO" : {
+    "meta_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Meta Title",
+        "placeholder" : "Meta Title"
+      }
+    },
+    "meta_description" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Meta Description",
+        "placeholder" : "Meta Description"
+      }
+    },
+    "og_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "OG Image"
+      }
+    }
+  }
+}

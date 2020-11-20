@@ -1,0 +1,33 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "TestimonialBackgroundImage",
+  "primary": {
+    "backgroundImage": {
+      "dimensions": {
+        "width": 4000,
+        "height": 2667
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/vfi-web/b9f3f522-1bdd-43fb-a515-1b3bdbcfe164_SchoolbagsEthiopianChildren0019.jpg?auto=compress,format"
+    },
+    "testimonialText": [
+      {
+        "type": "paragraph",
+        "text": "\"Thank you for you, and your company’s commitment to excellence. Your help has truly been a lifesaver. I know that the world is a better place with your work  With great love and appreciation.\"",
+        "spans": []
+      }
+    ],
+    "author": [
+      {
+        "type": "paragraph",
+        "text": "~ Sandra James",
+        "spans": []
+      }
+    ]
+  },
+  "slice_type": "testimonial_background_image"
+}]

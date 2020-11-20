@@ -1,0 +1,88 @@
+[
+    {
+        "id": "default-slice",
+        "name": "Default slice",
+        "docURL": "...",
+        "version": "sktwi1xtmkfgx8626",
+        "description": "HomepageHero",
+        "primary": {
+            "backgroundImage": {
+                "dimensions": {
+                    "width": 4320,
+                    "height": 2478
+                },
+                "alt": "Placeholder image",
+                "copyright": null,
+                "url": "https://images.prismic.io/vfi-web/6babf291-46ba-4b26-8b33-00b579df12bd_9adb8e9ab813f7ebc88eecc17135793668cc3bc7.png?auto=compress,format&rect=0,53,1124,645&w=4320&h=2478"
+            },
+            "preTitle": [
+                {
+                    "type": "heading3",
+                    "text": "Vision For Israel",
+                    "spans": []
+                }
+            ],
+            "title1": [
+                {
+                    "type": "heading1",
+                    "text": "PRACTICAL ACTS OF COMPASSION",
+                    "spans": []
+                }
+            ],
+            "title2": [
+                {
+                    "type": "heading1",
+                    "text": "Blessing the Needy in Israel",
+                    "spans": []
+                }
+            ],
+            "point1": [
+                {
+                    "type": "paragraph",
+                    "text": "SPREADING LOVE",
+                    "spans": []
+                }
+            ],
+            "point2": [
+                {
+                    "type": "paragraph",
+                    "text": "Giving Hope",
+                    "spans": []
+                }
+            ],
+            "point3": [
+                {
+                    "type": "paragraph",
+                    "text": "Changing Lives",
+                    "spans": []
+                }
+            ],
+            "primaryCtaButtonText": [
+                {
+                    "type": "paragraph",
+                    "text": "Donate",
+                    "spans": []
+                }
+            ],
+            "primaryCtaButtonLink": {
+                "link_type": "Web",
+                "url": "https://slicemachine.dev"
+            },
+            "secondaryCtaButtonText": [
+                {
+                    "type": "paragraph",
+                    "text": "Watch Video",
+                    "spans": []
+                }
+            ],
+            "secondaryButtonType": true,
+            "secondaryCtaButtonLink": {
+                "link_type": "Web",
+                "url": "https://slicemachine.dev"
+            },
+            "vimeoLink": ""
+        },
+        "items": [],
+        "slice_type": "homepage_hero"
+    }
+]

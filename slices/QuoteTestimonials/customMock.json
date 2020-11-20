@@ -1,0 +1,177 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "QuoteTestimonials",
+  "primary": {
+    "quoteText": [
+      {
+        "type": "paragraph",
+        "text": "“At the end of life we will not be judged by how many diplomas we have received, how much money we have made, how many great things we have done. We will be judged by “I was hungry, and you gave me something to eat, I was naked and you clothed me. I was homeless, and you took me in.”",
+        "spans": []
+      }
+    ],
+    "quoteAuthor": [
+      {
+        "type": "paragraph",
+        "text": "~ Mother Teresa",
+        "spans": []
+      }
+    ],
+    "rightImage": {
+      "dimensions": {
+        "width": 3000,
+        "height": 2000
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/with-love-charity/abd8cec9-f44e-46e8-a9fb-3987a7fca3ca_da56b815-2ae8-4ab9-9469-6fbda6612668_Education%2B%281%29.jpg?auto=compress,format"
+    },
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Lives Touched by Our Mission",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Thousands of lives have been restored, thanks to your support—with many more to come.",
+        "spans": []
+      }
+    ],
+    "videoButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Watch Latest Testimonial",
+        "spans": []
+      }
+    ],
+    "vimeoLink": {
+      "is_plus": "0",
+      "account_type": "pro",
+      "width": 426,
+      "height": 240,
+      "duration": 446,
+      "description": "",
+      "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F866663787_295x166.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+      "upload_date": "2020-03-19 07:23:32",
+      "video_id": 398794337,
+      "uri": "/videos/398794337",
+      "embed_url": "https://vimeo.com/398794337",
+      "type": "video",
+      "version": "1.0",
+      "title": "Slice Machine Intro",
+      "author_name": "Prismic",
+      "author_url": "https://vimeo.com/user20883712",
+      "provider_name": "Vimeo",
+      "provider_url": "https://vimeo.com/",
+      "cache_age": null,
+      "thumbnail_url": "https://i.vimeocdn.com/video/866663787_295x166.jpg",
+      "thumbnail_width": 295,
+      "thumbnail_height": 166,
+      "html": "<iframe src=\"https://player.vimeo.com/video/398794337?app_id=122963\" width=\"426\" height=\"240\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Slice Machine Intro\"></iframe>"
+    }
+  },
+  "items": [
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/with-love-charity/9bce57e8-a0df-4ec3-890b-d3aee7ce3192_WithLoveTeam010.jpg?auto=compress,format&rect=0,501,3000,3000&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Benjamin Siegal",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "CEO/Co-founder\nWITH LOVE INTERNET",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "We have been supporting WITH LOVE Charity for the past 25 years and have seen an incredible impact in our local communities.",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/with-love-charity/3d799050-b3bd-4017-b33e-2ffb31ae8c83_WithLoveTeam005.jpg?auto=compress,format&rect=0,501,3000,3000&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Bob Singor",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "CTO/Co-founder\nWITH LOVE INTERNET",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "Volunteering with our team members at WITH LOVE Charity has had such a huge impact on our own team. We have seen such an incredible increase in productivity and an overall positivity within the company.",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/with-love-charity/4de69b5a-0258-4df1-952c-84a4fa6e1f9e_0.jpeg?auto=compress,format&rect=0,0,450,450&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Liz Greaves",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Account Manager\nWITH LOVE INTERNET",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "Seeing lives changed and improved for the better is the most rewarding thing. I appreciate WITH LOVE Charity and their hard work and effort to improve life on this planet.",
+          "spans": []
+        }
+      ]
+    }
+  ],
+  "slice_type": "quote_testimonials"
+}]

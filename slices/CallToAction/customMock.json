@@ -1,0 +1,69 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "CallToAction",
+  "primary": {
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Are you willing to be a light, make a difference in the lives of people, and partner with our mission for improving life on this planet?",
+        "spans": []
+      }
+    ],
+    "ctaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Donate Now",
+        "spans": []
+      }
+    ],
+    "ctaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "pattern": true
+  },
+  "slice_type": "call_to_action"
+},{
+  "id": "default-slice",
+  "name": "CTA Second Patern",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "CallToAction",
+  "primary": {
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Are you willing to be a light, make a difference in the lives of people, and partner with our mission for improving life on this planet?",
+        "spans": []
+      }
+    ],
+    "ctaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Donate Now",
+        "spans": []
+      }
+    ],
+    "ctaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "pattern": false
+  },
+  "slice_type": "call_to_action"
+}]

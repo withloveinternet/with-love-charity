@@ -1,0 +1,94 @@
+{
+  "Main" : {
+    "title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Title",
+        "placeholder" : "Title"
+      }
+    },
+    "uid" : {
+      "type" : "UID",
+      "config" : {
+        "label" : "Slug",
+        "placeholder" : "Slug"
+      }
+    },
+    "date" : {
+      "type" : "Date",
+      "config" : {
+        "label" : "Date",
+        "placeholder" : "Publication Date"
+      }
+    },
+    "blog_topics" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "blog_topic" : {
+            "type" : "Link",
+            "config" : {
+              "select" : "document",
+              "customtypes" : [ "blog_topic" ],
+              "label" : "Blog Topic",
+              "placeholder" : "Blog Topic"
+            }
+          }
+        },
+        "label" : "Blog Topics"
+      }
+    },
+    "project_categories" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "project_category" : {
+            "type" : "Link",
+            "config" : {
+              "select" : "document",
+              "customtypes" : [ "project_category" ],
+              "label" : "Project Category",
+              "placeholder" : "Project Category"
+            }
+          }
+        },
+        "label" : "Project Categories"
+      }
+    },
+    "featured_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Featured Image"
+      }
+    }
+  },
+  "SEO" : {
+    "meta_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Meta Title",
+        "placeholder" : "Meta Title"
+      }
+    },
+    "meta_description" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Meta Description",
+        "placeholder" : "Meta Description"
+      }
+    },
+    "og_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "OG Image"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "subscribe_ebook",
+  "type": "SharedSlice",
+  "name": "SubscribeEbook",
+  "description": "SubscribeEbook",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SubscribeEbook",
+      "primary": {
+        "resourceImage": {
+          "config": {
+            "label": "Resource Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "Description",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "emailPlaceholder": {
+          "config": {
+            "label": "Email Placeholder",
+            "placeholder": "Email Placeholder",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "subscribeButtonText": {
+          "config": {
+            "label": "Subscribe Button Text",
+            "placeholder": "Subscribe Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "resourceDownloadFile": {
+          "config": {
+            "label": "Resource Download File",
+            "placeholder": "Resource File",
+            "select": "media"
+          },
+          "type": "Link"
+        },
+        "privacyText": {
+          "config": {
+            "label": "Privacy Text",
+            "placeholder": "Privacy Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

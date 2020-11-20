@@ -1,0 +1,75 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "VideoDetails",
+  "primary": {
+    "sectionTitle": [
+      {
+        "type": "heading2",
+        "text": "How Lives Have Been Transformed",
+        "spans": []
+      }
+    ],
+    "sectionSubtitle": [
+      {
+        "type": "paragraph",
+        "text": "Watch our latest project video and see how lives are being restored.",
+        "spans": []
+      }
+    ],
+    "thumbnail": {
+      "dimensions": {
+        "width": 3000,
+        "height": 2000
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/with-love-charity/abd8cec9-f44e-46e8-a9fb-3987a7fca3ca_da56b815-2ae8-4ab9-9469-6fbda6612668_Education%2B%281%29.jpg?auto=compress,format"
+    },
+    "vimeoLink": {
+      "is_plus": "0",
+      "account_type": "pro",
+      "width": 426,
+      "height": 240,
+      "duration": 446,
+      "description": "",
+      "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F866663787_295x166.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+      "upload_date": "2020-03-19 07:23:32",
+      "video_id": 398794337,
+      "uri": "/videos/398794337",
+      "embed_url": "https://vimeo.com/398794337",
+      "type": "video",
+      "version": "1.0",
+      "title": "Slice Machine Intro",
+      "author_name": "Prismic",
+      "author_url": "https://vimeo.com/user20883712",
+      "provider_name": "Vimeo",
+      "provider_url": "https://vimeo.com/",
+      "cache_age": null,
+      "thumbnail_url": "https://i.vimeocdn.com/video/866663787_295x166.jpg",
+      "thumbnail_width": 295,
+      "thumbnail_height": 166,
+      "html": "<iframe src=\"https://player.vimeo.com/video/398794337?app_id=122963\" width=\"426\" height=\"240\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Slice Machine Intro\"></iframe>"
+    },
+    "ctaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Donate Now",
+        "spans": []
+      }
+    ],
+    "ctaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    }
+  },
+  "slice_type": "video_details"
+}]

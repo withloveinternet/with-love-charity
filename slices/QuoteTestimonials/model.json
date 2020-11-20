@@ -1,0 +1,108 @@
+{
+  "id": "quote_testimonials",
+  "type": "SharedSlice",
+  "name": "QuoteTestimonials",
+  "description": "QuoteTestimonials",
+  "variations": [{
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "QuoteTestimonials",
+    "primary": {
+      "quoteText": {
+        "type": "StructuredText",
+        "config": {
+          "multi": "paragraph",
+          "label": "Quote Text",
+          "placeholder": "Quote Text"
+        }
+      },
+      "quoteAuthor": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "label": "Quote Author",
+          "placeholder": "Quote Author"
+        }
+      },
+      "rightImage": {
+        "type": "Image",
+        "config": {
+          "constraint": {},
+          "thumbnails": [],
+          "label": "Right Image"
+        }
+      },
+      "title": {
+        "type": "StructuredText",
+        "config": {
+          "single": "heading2",
+          "label": "Title",
+          "placeholder": "Title"
+        }
+      },
+      "subtitle": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "label": "Subtitle",
+          "placeholder": "Subtitle"
+        }
+      },
+      "videoButtonText": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "allowTargetBlank": true,
+          "label": "Video Button Text",
+          "placeholder": "Video Button Text"
+        }
+      },
+      "vimeoLink": {
+        "type": "Embed",
+        "config": {
+          "label": "Vimeo Link",
+          "placeholder": "Vimeo Link"
+        }
+      }
+    },
+    "items": {
+      "profilePicture": {
+        "type": "Image",
+        "config": {
+          "constraint": {
+            "width": 1000,
+            "height": 1000
+          },
+          "thumbnails": [],
+          "label": "Profile Picture"
+        }
+      },
+      "name": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "label": "Name",
+          "placeholder": "Name"
+        }
+      },
+      "title": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "label": "Title",
+          "placeholder": "Title"
+        }
+      },
+      "testimonial": {
+        "type": "StructuredText",
+        "config": {
+          "single": "paragraph",
+          "label": "Testimonial",
+          "placeholder": "Testimonial"
+        }
+      }
+    }
+  }]
+}

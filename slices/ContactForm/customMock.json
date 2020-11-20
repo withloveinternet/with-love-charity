@@ -1,0 +1,67 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContactForm",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Send Us a Message",
+          "spans": []
+        }
+      ],
+      "placeholderName": "Full Name",
+      "placeholderEmail": "Email Address",
+      "placeholderPhoneNumber": "Phone Number (Optional)",
+      "placeholderMessage": "Your Message",
+      "submitButton": "Send",
+      "termsAndPrivacy": [
+        {
+          "type": "paragraph",
+          "text": "By proceeding, I agree to the Terms of Use and the Privacy Policy.",
+          "spans": []
+        }
+      ],
+      "contactTitle": "Contact",
+      "addressTitle": "Address",
+      "contactText": [
+        {
+          "type": "paragraph",
+          "text": "E: info@withloveinternet.com\nT: +1 (347) 344-5421",
+          "spans": []
+        }
+      ],
+      "addressText": [
+        {
+          "type": "paragraph",
+          "text": "WITH LOVE Charity\nP.O. Box 7743\nCharlotte, NC 28241\nUnited States",
+          "spans": []
+        }
+      ],
+      "countryName": "United States",
+      "flagImage": {
+        "dimensions": {
+          "width": 156,
+          "height": 99
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/with-love-charity/a260a225-d1fd-40f5-8bb9-0dc9ee3b2bc2_3b13faaf-5951-4c76-a1b7-2d2226c56b6f_rectangle-copy-2%403x.png?auto=compress,format"
+      },
+      "countryImage": {
+        "dimensions": {
+          "width": 4318,
+          "height": 2478
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/with-love-charity/e80c0af0-9724-4d71-a34c-96e8b360f280_6babf291-46ba-4b26-8b33-00b579df12bd_9adb8e9ab813f7ebc88eecc17135793668cc3bc7.jpeg?auto=compress,format"
+      }
+    },
+    "items": [],
+    "slice_type": "contact_form"
+  }
+]

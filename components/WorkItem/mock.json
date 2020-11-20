@@ -1,0 +1,52 @@
+{
+  "title":[
+    {
+       "type":"heading1",
+       "text":"Helping Holocaust Survivors",
+       "spans":[
+          
+       ]
+    }
+ ],
+ "project_category":{
+    "id":"X298BRAAAPspom2X",
+    "type":"project_category",
+    "tags":[
+       
+    ],
+    "slug":"aid-to-the-poor-in-israel",
+    "lang":"en-us",
+    "uid":"aid-to-the-poor-in-israel",
+    "data":{
+       "title":[
+          {
+             "type":"heading1",
+             "text":"Aid to the Poor in Israel",
+             "spans":[
+                
+             ]
+          }
+       ],
+       "icon":{
+          "dimensions":{
+             "width":23,
+             "height":19
+          },
+          "alt":"Aid to the Poor in Israel",
+          "copyright":null,
+          "url":"https://prismic-io.s3.amazonaws.com/vfi-web/dcbb137e-fc94-4870-ab73-4139657e0563_group-38.svg"
+       }
+    },
+    "link_type":"Document",
+    "isBroken":false
+ },
+ "featured_image":{
+    "dimensions":{
+       "width":4000,
+       "height":2667
+    },
+    "alt":null,
+    "copyright":null,
+    "url":"https://images.prismic.io/vfi-web/39c3bd57-ab5a-426a-a00b-fbe5c1185505_Holocaust+Survivors+-+2.jpg?auto=compress,format"
+ }
+}

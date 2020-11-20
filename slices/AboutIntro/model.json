@@ -1,0 +1,79 @@
+{
+  "id": "about_intro",
+  "type": "SharedSlice",
+  "name": "AboutIntro",
+  "description": "AboutIntro",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "AboutIntro",
+      "primary": {
+        "highlightedText": {
+          "config": {
+            "label": "Highlighted Text",
+            "placeholder": "Highlighted Text",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "Description",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "boldText": {
+          "config": {
+            "label": "Bold Text",
+            "placeholder": "Bold Text",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "primaryCtaButtonText": {
+          "config": {
+            "label": "Primary CTA Button Text",
+            "placeholder": "Primary CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "primaryCtaButtonLink": {
+          "config": {
+            "label": "Primary CTA Button Link",
+            "placeholder": "Primary CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        },
+        "secondaryCtaButtonText": {
+          "config": {
+            "label": "Secondary CTA Button Text",
+            "placeholder": "Secondary CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "secondaryCtaButtonLink": {
+          "config": {
+            "label": "Secondary CTA Button Link",
+            "placeholder": "Secondary CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

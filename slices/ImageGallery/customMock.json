@@ -1,0 +1,59 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "ImageGallery",
+  "primary": {
+    "sectionTitle": [
+      {
+        "type": "heading2",
+        "text": "Our Outreaches",
+        "spans": []
+      }
+    ],
+    "sectionSubtitle": [
+      {
+        "type": "paragraph",
+        "text": "Pictures from our recent outreaches",
+        "spans": []
+      }
+    ]
+  },
+  "items": [
+    {
+      "photo": {
+        "dimensions": {
+          "width": 3700,
+          "height": 2730
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/7536c307-f266-43ca-972d-cbee31ae2d73_FIRM_049.jpg?auto=compress,format&rect=144,0,2711,2000&w=3700&h=2730"
+      }
+    },
+    {
+      "photo": {
+        "dimensions": {
+          "width": 3700,
+          "height": 2730
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/b9f3f522-1bdd-43fb-a515-1b3bdbcfe164_SchoolbagsEthiopianChildren0019.jpg?auto=compress,format&rect=192,0,3615,2667&w=3700&h=2730"
+      }
+    },
+    {
+      "photo": {
+        "dimensions": {
+          "width": 3700,
+          "height": 2730
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/6babf291-46ba-4b26-8b33-00b579df12bd_9adb8e9ab813f7ebc88eecc17135793668cc3bc7.png?auto=compress,format&rect=54,0,1016,750&w=3700&h=2730"
+      }
+    }
+  ],
+  "slice_type": "image_gallery"
+}]

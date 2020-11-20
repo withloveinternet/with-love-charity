@@ -1,0 +1,238 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "FeaturedBlogs",
+  "primary": {
+    "title":[
+      {
+         "type":"heading2",
+         "text":"Learn",
+         "spans":[
+            
+         ]
+      }
+   ],
+   "subtitle":[
+      {
+         "type":"paragraph",
+         "text":"Partner with God’s plan for the restoration of the land of Israel in these areas.",
+         "spans":[
+            
+         ]
+      }
+   ],
+   "ctaButtonText":[
+      {
+         "type":"paragraph",
+         "text":"View All",
+         "spans":[
+            
+         ]
+      }
+   ],
+   "ctaButtonLink":{
+      "id":"X3CePxAAAEZcp3dP",
+      "type":"page",
+      "tags":[
+         
+      ],
+      "slug":"learn",
+      "lang":"en-us",
+      "uid":"learn",
+      "link_type":"Document",
+      "isBroken":false
+   },
+   "showLatestBlogs": true
+  },
+  "items": [
+    {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"What are the Jewish Fall Holidays?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/vfi-web/7536c307-f266-43ca-972d-cbee31ae2d73_FIRM_049.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   },
+   {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"What are the Jewish Fall Holidays?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/vfi-web/7536c307-f266-43ca-972d-cbee31ae2d73_FIRM_049.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   },
+   {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"What are the Jewish Fall Holidays?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/vfi-web/7536c307-f266-43ca-972d-cbee31ae2d73_FIRM_049.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   }
+  ],
+  "slice_type": "featured_blogs"
+}]

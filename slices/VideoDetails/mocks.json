@@ -1,0 +1,75 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "VideoDetails",
+  "primary": {
+    "sectionTitle": [
+      {
+        "type": "heading2",
+        "text": "How Lives Have Been Transformed",
+        "spans": []
+      }
+    ],
+    "sectionSubtitle": [
+      {
+        "type": "paragraph",
+        "text": "Watch our latest project video and see how lives are being restored in Israel.",
+        "spans": []
+      }
+    ],
+    "thumbnail": {
+      "dimensions": {
+        "width": 3000,
+        "height": 2000
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/vfi-web/f3a90f82-a7b8-480e-b036-be78f5b2463d_Aid+to+the+Poor+%281%29.jpg?auto=compress,format"
+    },
+    "vimeoLink": {
+      "is_plus": "0",
+      "account_type": "business",
+      "width": 426,
+      "height": 240,
+      "duration": 181,
+      "description": "Vision for Israel is committed to helping decrease poverty rates in Israel and spreading love, truth, and healing to the people who need it the most.\n\nTo give and help us impact more lives:\nhttps://www.visionforisrael.com/en/donate\n\nTo stay updated on the latest news from Israel:\nhttps://vfinews.com\n\nThe number of people living in poverty in Israel is alarming. Vision for Israel wants to change this, and effectively reach people with the love of Yeshua by meeting their physical and emotional needs in practical ways. Each Vision for Israel outreach project is purpose-driven and directly impacts our brothers and sisters in need. Together, we can rebuild Israel and the Middle East.\n\nVision for Israel aims to bless Israel in practical ways, restoring lives by spreading love and compassion, distributing humanitarian aid and disaster relief to those who need it most. Vision for Israel has been operating in partnership with the Israeli government and social services for over 25 years, impacting over ONE MILLION lives and decreasing poverty in Israel including holocaust survivors, victims of terror attacks, orphans and widows, and new immigrants.\n\nVision for Israel has also been a source of spiritual aid to the nations through VFI News which helps people from the nations stay updated on key events from Israel, learn about the situation, and pray more effectively for grace and provision where needed the most.",
+      "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F867772851_295x166.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+      "upload_date": "2020-03-22 12:10:05",
+      "video_id": 399655083,
+      "uri": "/videos/399655083",
+      "embed_url": "https://vimeo.com/399655083",
+      "type": "video",
+      "version": "1.0",
+      "title": "Blessings Children of Terror Victim Families During Purim",
+      "author_name": "Vision for Israel",
+      "author_url": "https://vimeo.com/visionforisrael",
+      "provider_name": "Vimeo",
+      "provider_url": "https://vimeo.com/",
+      "cache_age": null,
+      "thumbnail_url": "https://i.vimeocdn.com/video/867772851_295x166.jpg",
+      "thumbnail_width": 295,
+      "thumbnail_height": 166,
+      "html": "<iframe src=\"https://player.vimeo.com/video/399655083?app_id=122963\" width=\"426\" height=\"240\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Blessings Children of Terror Victim Families During Purim\"></iframe>"
+    },
+    "ctaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Donate Now",
+        "spans": []
+      }
+    ],
+    "ctaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    }
+  },
+  "slice_type": "video_details"
+}]

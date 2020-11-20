@@ -1,0 +1,177 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "QuoteTestimonials",
+  "primary": {
+    "quoteText": [
+      {
+        "type": "paragraph",
+        "text": "...I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.",
+        "spans": []
+      }
+    ],
+    "quoteAuthor": [
+      {
+        "type": "paragraph",
+        "text": "~ Matthew 25:35-36",
+        "spans": []
+      }
+    ],
+    "rightImage": {
+      "dimensions": {
+        "width": 4000,
+        "height": 2667
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/vfi-web/39c3bd57-ab5a-426a-a00b-fbe5c1185505_Holocaust+Survivors+-+2.jpg?auto=compress,format"
+    },
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Lives that have Been Transformed",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Some of the lives that have been restored thanks to your support. Fighting poverty one life at a time.",
+        "spans": []
+      }
+    ],
+    "videoButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Watch Latest Testimonial",
+        "spans": []
+      }
+    ],
+    "vimeoLink": {
+      "is_plus": "0",
+      "account_type": "business",
+      "width": 640,
+      "height": 360,
+      "duration": 237,
+      "description": "A terror attack is defined as a direct hit from an act of hostility by enemy forces, or an indirect hit that was caused by or related to an act of hostility. A terror attack is also defined as a strike as a result of an act of violence in which the goal was to hurt a person because he or she belongs to a certain ethnic nationality, a result of the Israeli-Arab conflict or a terror organization.\n\nAccording to data published in May 2017 by Bituach Leumi (Israel's National Security), 20,000 citizens have been injured and more than 1,300 have been killed in acts of violence since 2000. Since Israel was established as an independent state, 2,288 people have died from terror attacks. Sadly, the numbers are rising constantly. The loss of a family member affects a family physically, spiritually and financially.\n\nTragedy Takes a Personal Hit\nVision for Israel began helping victims of terror following a devastating attack on a bus in Jerusalem in February 1996 that personally affected our founders Barry and Batya Segal. In this attack, their eldest daughter lost 3 of her schoolmates. Then around Passover, another acquaintance of their daughter’s was killed in another bus bombing. These were bus lines that their daughter used often.\n\nThis tragedy inspired Barry and Batya to visit the relatives of the victims who lost their loved ones in these attacks. They met broken people in great distress and mourned for them. Some were survivors who suffered physically from severe wounds in their bodies, and emotionally as they struggled to continue living in peace. Barry and Batya came to support them in their hardships.\n\nSince that Passover in 1996, comforting families who have been torn apart by terror attacks has become one of the highest priorities of Vision for Israel. We began with giving a small financial gift to each family, and with the opening of The Joseph Storehouse in 1998, the aid was expanded to more than 200 terror victim families annually.\n\nFamilies Still In Need\nUnfortunately, due to the complex reality in Israel, the number of terror victim families continues to increase. Within a short time, the number of families shot up to 3,000. Vision for Israel increased the aid to families. Throughout the years, aid has also gone to help those affected by rocket attacks in Lebanon and Gaza.\n\nThanks to the help and generous donations that come in from all over the world, we are able to give a wider range of aid, which includes physical, emotional and financial support . This aid is of utmost importance to families and enables them to focus on healing from the traumatic experience without having to worry about daily needs such as medical supplies and household items. At Vision for Israel, we want to be the hand of support that comforts and supports these people throughout their recovery processes.",
+      "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F714690659_640.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+      "upload_date": "2018-06-21 11:44:38",
+      "video_id": 276263372,
+      "uri": "/videos/276263372",
+      "embed_url": "https://vimeo.com/276263372",
+      "type": "video",
+      "version": "1.0",
+      "title": "Heartbreaking story from an Israeli survivor of terror attack",
+      "author_name": "Vision for Israel",
+      "author_url": "https://vimeo.com/visionforisrael",
+      "provider_name": "Vimeo",
+      "provider_url": "https://vimeo.com/",
+      "cache_age": null,
+      "thumbnail_url": "https://i.vimeocdn.com/video/714690659_640.jpg",
+      "thumbnail_width": 640,
+      "thumbnail_height": 360,
+      "html": "<iframe src=\"https://player.vimeo.com/video/276263372?app_id=122963\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Heartbreaking story from an Israeli survivor of terror attack\"></iframe>"
+    }
+  },
+  "items": [
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/c352451a-04de-4e70-838b-483b8d5b0d55_Jonathan+Bernis.jpg?auto=compress,format&rect=0,0,500,500&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Jonathan Bernis",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Jewish Voice Ministries",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "We are your hands, spreading love, compassion, and practical help in Israel. With feet on the ground, we've operated in partnership with the Israeli government and social services for the past 25 years—impacting more than ONE MILLION lives.",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/02615ca7-15f2-4279-b52a-0136c6207577_Marcus+%26+Joni+Lamb.jpg?auto=compress,format&rect=80,0,480,480&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Marcus & Joni Lamb",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Daystar TV Network",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "We are your hands, spreading love, compassion, and practical help in Israel. With feet on the ground, we've operated in partnership with the Israeli government and social services for the past 25 years—impacting more than ONE MILLION lives.",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "profilePicture": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/vfi-web/99a2f618-b0ed-4cf1-9037-79bb47cdf0b0_Michael+%26+Vanessa+Mistretta.jpg?auto=compress,format&rect=68,0,517,517&w=1000&h=1000"
+      },
+      "name": [
+        {
+          "type": "paragraph",
+          "text": "Michael & Vanessa Mistretta",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "FIRM",
+          "spans": []
+        }
+      ],
+      "testimonial": [
+        {
+          "type": "paragraph",
+          "text": "We are your hands, spreading love, compassion, and practical help in Israel. With feet on the ground, we've operated in partnership with the Israeli government and social services for the past 25 years—impacting more than ONE MILLION lives.",
+          "spans": []
+        }
+      ]
+    }
+  ],
+  "slice_type": "quote_testimonials"
+}]

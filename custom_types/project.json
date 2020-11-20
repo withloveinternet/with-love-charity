@@ -1,0 +1,84 @@
+{
+  "Main" : {
+    "title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Title",
+        "placeholder" : "Title"
+      }
+    },
+    "headercolor" : {
+      "type" : "Boolean",
+      "config" : {
+        "default_value" : false,
+        "label" : "HeaderColor"
+      }
+    },
+    "uid" : {
+      "type" : "UID",
+      "config" : {
+        "label" : "Slug",
+        "placeholder" : "Slug"
+      }
+    },
+    "subtitle" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Subtitle",
+        "placeholder" : "Subtitle"
+      }
+    },
+    "project_category" : {
+      "type" : "Link",
+      "config" : {
+        "select" : "document",
+        "customtypes" : [ "project_category" ],
+        "label" : "Project Category",
+        "placeholder" : "Project Category"
+      }
+    },
+    "priority" : {
+      "type" : "Number",
+      "config" : {
+        "label" : "Priority",
+        "placeholder" : "Priority"
+      }
+    },
+    "featured_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Featured Image"
+      }
+    }
+  },
+  "SEO" : {
+    "meta_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Meta Title",
+        "placeholder" : "Meta Title"
+      }
+    },
+    "meta_description" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Meta Description",
+        "placeholder" : "Meta Description"
+      }
+    },
+    "og_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "OG Image"
+      }
+    }
+  }
+}

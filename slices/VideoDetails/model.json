@@ -1,0 +1,68 @@
+{
+  "id": "video_details",
+  "type": "SharedSlice",
+  "name": "VideoDetails",
+  "description": "VideoDetails",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "VideoDetails",
+      "primary": {
+        "sectionTitle": {
+          "config": {
+            "label": "Section Title",
+            "placeholder": "Section Title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "sectionSubtitle": {
+          "config": {
+            "label": "Section Subtitle",
+            "placeholder": "Section Subtitle",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "thumbnail": {
+          "type": "Image",
+          "config": {
+            "constraint": {},
+            "thumbnails": [],
+            "label": "Thumbnail"
+          }
+        },
+        "vimeoLink": {
+          "config": {
+            "label": "Vimeo Link",
+            "placeholder": "Vimeo Link"
+          },
+          "type": "Embed"
+        },
+        "ctaButtonText": {
+          "config": {
+            "label": "CTA Button Text",
+            "placeholder": "CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "ctaButtonLink": {
+          "config": {
+            "label": "CTA Button Link",
+            "placeholder": "Add CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

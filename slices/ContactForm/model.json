@@ -1,0 +1,126 @@
+{
+  "id": "contact_form",
+  "type": "SharedSlice",
+  "name": "ContactForm",
+  "description": "ContactForm",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ContactForm",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading1"
+          },
+          "type": "StructuredText"
+        },
+        "placeholderName": {
+          "config": {
+            "label": "Placeholder Name",
+            "placeholder": "Add Placeholder Name"
+          },
+          "type": "Text"
+        },
+        "placeholderEmail": {
+          "config": {
+            "label": "Placeholder Email",
+            "placeholder": "Add Placeholder Email"
+          },
+          "type": "Text"
+        },
+        "placeholderPhoneNumber": {
+          "config": {
+            "label": "Placeholder Phone Number",
+            "placeholder": "Add Placeholder Phone Number"
+          },
+          "type": "Text"
+        },
+        "placeholderMessage": {
+          "config": {
+            "label": "Placeholder Message",
+            "placeholder": "Add Placeholder Message"
+          },
+          "type": "Text"
+        },
+        "submitButton": {
+          "config": {
+            "label": "Submit Button",
+            "placeholder": "Add Submit Button Text"
+          },
+          "type": "Text"
+        },
+        "termsAndPrivacy": {
+          "config": {
+            "label": "Terms and privacy policy text",
+            "placeholder": "Add terms and privacy policy text",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "contactTitle": {
+          "config": {
+            "label": "Contact Title",
+            "placeholder": "Add Contact Title"
+          },
+          "type": "Text"
+        },
+        "addressTitle": {
+          "config": {
+            "label": "Address Title",
+            "placeholder": "Add Address Title"
+          },
+          "type": "Text"
+        },
+        "contactText": {
+          "config": {
+            "label": "Contact Text",
+            "placeholder": "Add Contact Text",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "addressText": {
+          "config": {
+            "label": "Address Text",
+            "placeholder": "Add Address Text",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "countryName": {
+          "config": {
+            "label": "Country Name",
+            "placeholder": "Add Country Name"
+          },
+          "type": "Text"
+        },
+        "flagImage": {
+          "config": {
+            "label": "Flag Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "countryImage": {
+          "config": {
+            "label": "Contact Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

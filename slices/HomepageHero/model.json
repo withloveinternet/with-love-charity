@@ -1,0 +1,134 @@
+{
+  "id": "homepage_hero",
+  "type": "SharedSlice",
+  "name": "HomepageHero",
+  "description": "HomepageHero",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HomepageHero",
+      "primary": {
+        "backgroundImage": {
+          "config": {
+            "label": "Background Image",
+            "constraint": {
+              "width": 4320,
+              "height": 2478
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "preTitle": {
+          "config": {
+            "label": "Pre-title",
+            "placeholder": "Pre-title",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          },
+          "type": "StructuredText"
+        },
+        "title1": {
+          "config": {
+            "label": "Title 1",
+            "placeholder": "Title 1",
+            "allowTargetBlank": true,
+            "single": "heading1"
+          },
+          "type": "StructuredText"
+        },
+        "title2": {
+          "config": {
+            "label": "Title 2",
+            "placeholder": "Title 2",
+            "allowTargetBlank": true,
+            "single": "heading1"
+          },
+          "type": "StructuredText"
+        },
+        "point1": {
+          "config": {
+            "label": "Point 1",
+            "placeholder": "Point 1",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "point2": {
+          "config": {
+            "label": "Point 2",
+            "placeholder": "Point 2",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "point3": {
+          "config": {
+            "label": "Point 3",
+            "placeholder": "Point 3",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "primaryCtaButtonText": {
+          "config": {
+            "label": "Primary CTA Button Text",
+            "placeholder": "Primary CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "primaryCtaButtonLink": {
+          "config": {
+            "label": "Primary CTA Button Link",
+            "placeholder": "Primary CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        },
+        "secondaryCtaButtonText": {
+          "config": {
+            "label": "Secondary CTA Button Text",
+            "placeholder": "Secondary CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "secondaryButtonType": {
+          "config": {
+            "label": "Secondary Button Type",
+            "placeholder": "",
+            "placeholder_false": "Link",
+            "placeholder_true": "Video",
+            "default_value": true
+          },
+          "type": "Boolean"
+        },
+        "secondaryCtaButtonLink": {
+          "config": {
+            "label": "Secondary CTA Button Link",
+            "placeholder": "Secondary CTA Button Text",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        },
+        "vimeoLink": {
+          "config": {
+            "label": "Vimeo Link",
+            "placeholder": "Vimeo Link"
+          },
+          "type": "Embed"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

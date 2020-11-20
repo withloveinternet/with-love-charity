@@ -1,0 +1,33 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "TestimonialBackgroundImage",
+  "primary": {
+    "backgroundImage": {
+      "dimensions": {
+        "width": 4000,
+        "height": 2667
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/vfi-web/b9f3f522-1bdd-43fb-a515-1b3bdbcfe164_SchoolbagsEthiopianChildren0019.jpg?auto=compress,format"
+    },
+    "testimonialText": [
+      {
+        "type": "paragraph",
+        "text": "\"Thank you for you, and your company’s commitment to excellence. My experience in Israel has truly been a trip of a lifetime. I hope to visit Jerusalem again soon.  There will always be a special place in my heart for Israel.\"",
+        "spans": []
+      }
+    ],
+    "author": [
+      {
+        "type": "paragraph",
+        "text": "~ Naomi Cohen / Holocaust Survivor",
+        "spans": []
+      }
+    ]
+  },
+  "slice_type": "testimonial_background_image"
+}]

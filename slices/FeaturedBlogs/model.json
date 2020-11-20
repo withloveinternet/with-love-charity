@@ -1,0 +1,68 @@
+{
+  "id": "featured_blogs",
+  "type": "SharedSlice",
+  "name": "FeaturedBlogs",
+  "description": "FeaturedBlogs",
+  "variations": [{
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeaturedBlogs",
+    "primary": {
+      "title" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "heading2",
+          "label" : "Title",
+          "placeholder" : "Title"
+        }
+      },
+      "subtitle" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "paragraph",
+          "label" : "Subtitle",
+          "placeholder" : "Subtitle"
+        }
+      },
+      "ctaButtonText" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "paragraph",
+          "label" : "CTA Button Text",
+          "placeholder" : "CTA Button Text"
+        }
+      },
+      "ctaButtonLink" : {
+        "type" : "Link",
+        "config" : {
+          "allowTargetBlank" : true,
+          "label" : "CTA Button Link",
+          "placeholder" : "CTA Button Link"
+        }
+      },
+      "showLatestBlogs": {
+        "type": "Boolean",
+        "config": {
+          "label": "Show Latest Blogs",
+          "id": "showLatestBlogs",
+          "placeholder": "",
+          "placeholder_false": "false",
+          "placeholder_true": "true",
+          "default_value": true
+        }
+      }
+    },
+    "items": {
+      "blogPost" : {
+        "type" : "Link",
+        "config" : {
+          "select" : "document",
+          "label" : "Blog Post",
+          "placeholder" : "Blog Post"
+        }
+      }
+    }
+  }]
+}

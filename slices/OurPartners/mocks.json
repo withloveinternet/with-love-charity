@@ -1,0 +1,76 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "OurPartners",
+  "primary": {
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Our Global Partners",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "This work wouldn’t be possible without the generous support of dear friends and partners.",
+        "spans": []
+      }
+    ],
+    "ctaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Become a Monthly Partner",
+        "spans": []
+      }
+    ],
+    "ctaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    }
+  },
+  "items": [
+    {
+      "partnerLogo": {
+        "dimensions": {
+          "width": 244,
+          "height": 63
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/vfi-web/8e8548c9-91ad-4fbc-80f8-d79f1165a019_combined-shape.svg"
+      }
+    },
+    {
+      "partnerLogo": {
+        "dimensions": {
+          "width": 290,
+          "height": 88
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/vfi-web/7f66f10a-442e-4f19-969f-71a41a1e53a8_combined-shape+%281%29.svg"
+      }
+    },
+    {
+      "partnerLogo": {
+        "dimensions": {
+          "width": 310,
+          "height": 44
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/vfi-web/ea3b151b-531f-4558-85d0-eef63031c75e_wide-a.svg"
+      }
+    }
+  ],
+  "slice_type": "our_partners"
+}]

@@ -1,0 +1,81 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "AboutIntro",
+  "primary": {
+    "highlightedText": [
+      {
+        "type": "paragraph",
+        "text": "Looking for a reliable and practical way to bless Israel?",
+        "spans": [
+          {
+            "start": 14,
+            "end": 36,
+            "type": "label",
+            "data": {
+              "label": "Underlined"
+            }
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Want to help spread love and compassion to the people who need it the most?",
+        "spans": [
+          {
+            "start": 13,
+            "end": 39,
+            "type": "label",
+            "data": {
+              "label": "Underlined"
+            }
+          }
+        ]
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "We are your hands, spreading love, compassion, and practical help in Israel. With feet on the ground, we've operated in partnership with the Israeli government and social services for the past 25 years—impacting more than ONE MILLION lives.",
+        "spans": []
+      }
+    ],
+    "boldText": [
+      {
+        "type": "paragraph",
+        "text": "You can help restore lives and decrease poverty in Israel.",
+        "spans": []
+      }
+    ],
+    "primaryCtaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Donate Now",
+        "spans": []
+      }
+    ],
+    "primaryCtaButtonLink": {
+      "id": "X2dHGxIAAGzBjLoB",
+      "type": "page",
+      "tags": [],
+      "slug": "give",
+      "lang": "en-us",
+      "uid": "give",
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "secondaryCtaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Our Work",
+        "spans": []
+      }
+    ],
+    "secondaryCtaButtonLink": {
+      "link_type": "Any"
+    }
+  },
+  "slice_type": "about_intro"
+}]

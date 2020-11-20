@@ -1,0 +1,76 @@
+{
+  "id": "hero_background_image",
+  "type": "SharedSlice",
+  "name": "HeroBackgroundImage",
+  "description": "HeroBackgroundImage",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HeroBackgroundImage",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Title",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "Description",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "primaryCtaButtonText": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Primary CTA Button Text",
+            "placeholder": "Primary CTA Button Text"
+          }
+        },
+        "primaryCtaButtonLink": {
+          "type": "Link",
+          "config": {
+            "allowTargetBlank": true,
+            "label": "Primary CTA Button Link",
+            "placeholder": "Primary CTA Button Link"
+          }
+        },
+        "secondaryCtaButtonText": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Secondary CTA Button Text",
+            "placeholder": "Secondary CTA Button Text"
+          }
+        },
+        "secondaryCtaButtonLink": {
+          "type": "Link",
+          "config": {
+            "allowTargetBlank": true,
+            "label": "Secondary CTA Button Link",
+            "placeholder": "Secondary CTA Button Link"
+          }
+        },
+        "backgroundImage": {
+          "config": {
+            "label": "Background Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

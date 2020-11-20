@@ -1,0 +1,57 @@
+{
+  "id": "our_partners",
+  "type": "SharedSlice",
+  "name": "OurPartners",
+  "description": "OurPartners",
+  "variations": [{
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "OurPartners",
+    "primary": {
+      "title" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "heading2",
+          "label" : "Title",
+          "placeholder" : "Title"
+        }
+      },
+      "subtitle" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "paragraph",
+          "label" : "Subtitle",
+          "placeholder" : "Subtitle"
+        }
+      },
+      "ctaButtonText" : {
+        "type" : "StructuredText",
+        "config" : {
+          "single" : "paragraph",
+          "label" : "CTA Button Text",
+          "placeholder" : "CTA Button Text"
+        }
+      },
+      "ctaButtonLink" : {
+        "type" : "Link",
+        "config" : {
+          "allowTargetBlank" : true,
+          "label" : "CTA Button Link",
+          "placeholder" : "CTA Button Link"
+        }
+      }
+    },
+    "items": {
+      "partnerLogo": {
+        "config": {
+          "label": "Background Image",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      }
+    }
+  }]
+}

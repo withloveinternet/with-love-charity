@@ -1,0 +1,331 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "FeaturedWork",
+  "primary": {
+   "title": [
+     {
+       "type": "heading2",
+       "text": "Our Work",
+       "spans": []
+     }
+   ],
+   "subtitle": [
+     {
+       "type": "paragraph",
+       "text": "Partner with us to make our world a better place.",
+       "spans": []
+     }
+   ],
+   "featuredWorkCategory1": {
+     "id": "X7ZqRBIAAL0Jr3KZ",
+     "type": "project_category",
+     "tags": [],
+     "slug": "aid-to-the-poor",
+     "lang": "en-us",
+     "uid": "aid-to-the-poor",
+     "data": {
+       "title": [
+         {
+           "type": "heading1",
+           "text": "Aid to the Poor",
+           "spans": []
+         }
+       ],
+       "icon": {
+         "dimensions": {
+           "width": 23,
+           "height": 19
+         },
+         "alt": "Aid to the Poor",
+         "copyright": null,
+         "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/e7ef1c1e-c753-475c-be8f-60064636f5d6_group-38.svg"
+       }
+     },
+     "link_type": "Document",
+     "isBroken": false
+   },
+   "featuredWorkCategory2": {
+     "id": "X7ZmphIAAL0Jr2Kl",
+     "type": "project_category",
+     "tags": [],
+     "slug": "educational-advancement",
+     "lang": "en-us",
+     "uid": "educational-advancement",
+     "data": {
+       "title": [
+         {
+           "type": "heading1",
+           "text": "Educational Advancement",
+           "spans": []
+         }
+       ],
+       "icon": {
+         "dimensions": {
+           "width": 20,
+           "height": 18
+         },
+         "alt": "Educational Advancement",
+         "copyright": null,
+         "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/db67566d-f6e5-4ea8-90fa-ec81cd2fe44a_group-39.svg"
+       }
+     },
+     "link_type": "Document",
+     "isBroken": false
+   },
+   "featuredWorkCategory3": {
+     "id": "X7aHbBIAAL4Jr_Lm",
+     "type": "project_category",
+     "tags": [],
+     "slug": "medical--disaster-relief",
+     "lang": "en-us",
+     "uid": "medical-and-disaster-relief",
+     "data": {
+       "title": [
+         {
+           "type": "heading1",
+           "text": "Medical & Disaster Relief",
+           "spans": []
+         }
+       ],
+       "icon": {
+         "dimensions": {
+           "width": 23,
+           "height": 23
+         },
+         "alt": "Medical & Disaster Relief",
+         "copyright": null,
+         "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/7dc678bc-d4fd-401b-b3fa-25be8fa0f79c_group-8.svg"
+       }
+     },
+     "link_type": "Document",
+     "isBroken": false
+   },
+   "featuredWorkCategory4": {
+     "id": "X7aGZBIAAP4kr-5L",
+     "type": "project_category",
+     "tags": [],
+     "slug": "building--development",
+     "lang": "en-us",
+     "uid": "building-and-development",
+     "data": {
+       "title": [
+         {
+           "type": "heading1",
+           "text": "Building & Development",
+           "spans": []
+         }
+       ],
+       "icon": {
+         "dimensions": {
+           "width": 17,
+           "height": 21
+         },
+         "alt": "Building & Development",
+         "copyright": null,
+         "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/01302406-e308-4f7d-9594-247ad0b45335_group-40.svg"
+       }
+     },
+     "link_type": "Document",
+     "isBroken": false
+   },
+   "viewAllButtonText": [
+     {
+       "type": "paragraph",
+       "text": "View All",
+       "spans": []
+     }
+   ],
+   "viewAllButtonLink": {
+     "id": "X7ZlABIAALwJr1tb",
+     "type": "page",
+     "tags": [],
+     "slug": "work--projects",
+     "lang": "en-us",
+     "uid": "projects",
+     "link_type": "Document",
+     "isBroken": false
+   },
+   "showAllProjects": false,
+   "showAllCategories": null
+ },
+ "items": [
+   {
+     "featuredProject": {
+       "id": "X7ZmFBIAAP4kr2Af",
+       "type": "project",
+       "tags": [],
+       "slug": "first-response--disaster-relief",
+       "lang": "en-us",
+       "uid": "first-response-disaster-relief",
+       "data": {
+         "title": [
+           {
+             "type": "heading1",
+             "text": "First Response & Disaster Relief",
+             "spans": []
+           }
+         ],
+         "project_category": {
+           "id": "X7aHbBIAAL4Jr_Lm",
+           "type": "project_category",
+           "tags": [],
+           "slug": "medical--disaster-relief",
+           "lang": "en-us",
+           "uid": "medical-and-disaster-relief",
+           "data": {
+             "title": [
+               {
+                 "type": "heading1",
+                 "text": "Medical & Disaster Relief",
+                 "spans": []
+               }
+             ],
+             "icon": {
+               "dimensions": {
+                 "width": 23,
+                 "height": 23
+               },
+               "alt": "Medical & Disaster Relief",
+               "copyright": null,
+               "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/7dc678bc-d4fd-401b-b3fa-25be8fa0f79c_group-8.svg"
+             }
+           },
+           "link_type": "Document",
+           "isBroken": false
+         },
+         "featured_image": {
+           "dimensions": {
+             "width": 3000,
+             "height": 2000
+           },
+           "alt": null,
+           "copyright": null,
+           "url": "https://images.prismic.io/with-love-charity/84858f9b-5424-439b-b264-4996f3d12cc0_05431058-1e03-41c4-ab6d-2eaf1b1ea834_Medical%2BDisaster%2BRelief.jpg?auto=compress,format"
+         }
+       },
+       "link_type": "Document",
+       "isBroken": false
+     }
+   },
+   {
+     "featuredProject": {
+       "id": "X7aOyBIAALwJsBNT",
+       "type": "project",
+       "tags": [],
+       "slug": "providing-for-at-risk-children",
+       "lang": "en-us",
+       "uid": "providing-for-at-risk-children",
+       "data": {
+         "title": [
+           {
+             "type": "heading1",
+             "text": "Providing for At-Risk Children",
+             "spans": []
+           }
+         ],
+         "project_category": {
+           "id": "X7ZmphIAAL0Jr2Kl",
+           "type": "project_category",
+           "tags": [],
+           "slug": "educational-advancement",
+           "lang": "en-us",
+           "uid": "educational-advancement",
+           "data": {
+             "title": [
+               {
+                 "type": "heading1",
+                 "text": "Educational Advancement",
+                 "spans": []
+               }
+             ],
+             "icon": {
+               "dimensions": {
+                 "width": 20,
+                 "height": 18
+               },
+               "alt": "Educational Advancement",
+               "copyright": null,
+               "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/db67566d-f6e5-4ea8-90fa-ec81cd2fe44a_group-39.svg"
+             }
+           },
+           "link_type": "Document",
+           "isBroken": false
+         },
+         "featured_image": {
+           "dimensions": {
+             "width": 3000,
+             "height": 2000
+           },
+           "alt": null,
+           "copyright": null,
+           "url": "https://images.prismic.io/with-love-charity/abd8cec9-f44e-46e8-a9fb-3987a7fca3ca_da56b815-2ae8-4ab9-9469-6fbda6612668_Education%2B%281%29.jpg?auto=compress,format"
+         }
+       },
+       "link_type": "Document",
+       "isBroken": false
+     }
+   },
+   {
+     "featuredProject": {
+       "id": "X7az1BIAALkqsLZm",
+       "type": "project",
+       "tags": [],
+       "slug": "assisting-new-immigrants",
+       "lang": "en-us",
+       "uid": "assisting-new-immigrants",
+       "data": {
+         "title": [
+           {
+             "type": "heading1",
+             "text": "Assisting New Immigrants",
+             "spans": []
+           }
+         ],
+         "project_category": {
+           "id": "X7ZqRBIAAL0Jr3KZ",
+           "type": "project_category",
+           "tags": [],
+           "slug": "aid-to-the-poor",
+           "lang": "en-us",
+           "uid": "aid-to-the-poor",
+           "data": {
+             "title": [
+               {
+                 "type": "heading1",
+                 "text": "Aid to the Poor",
+                 "spans": []
+               }
+             ],
+             "icon": {
+               "dimensions": {
+                 "width": 23,
+                 "height": 19
+               },
+               "alt": "Aid to the Poor",
+               "copyright": null,
+               "url": "https://prismic-io.s3.amazonaws.com/with-love-charity/e7ef1c1e-c753-475c-be8f-60064636f5d6_group-38.svg"
+             }
+           },
+           "link_type": "Document",
+           "isBroken": false
+         },
+         "featured_image": {
+           "dimensions": {
+             "width": 2000,
+             "height": 1334
+           },
+           "alt": null,
+           "copyright": null,
+           "url": "https://images.prismic.io/with-love-charity/d9530639-09d9-49ff-a897-c7db072546bb_7bfb1be5-63ee-4859-8d96-aa3cfd03504f_VFI_Fans009.jpg?auto=compress,format"
+         }
+       },
+       "link_type": "Document",
+       "isBroken": false
+     }
+   }
+ ],
+  "slice_type": "featured_work"
+}]

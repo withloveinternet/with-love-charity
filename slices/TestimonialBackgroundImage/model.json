@@ -1,0 +1,44 @@
+{
+  "id": "testimonial_background_image",
+  "type": "SharedSlice",
+  "name": "TestimonialBackgroundImage",
+  "description": "TestimonialBackgroundImage",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TestimonialBackgroundImage",
+      "primary": {
+        "backgroundImage": {
+          "config": {
+            "label": "Background Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "testimonialText": {
+          "config": {
+            "label": "Testimonial Text",
+            "placeholder": "Testimonial Text",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "author": {
+          "config": {
+            "label": "Author",
+            "placeholder": "Author",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

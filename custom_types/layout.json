@@ -1,0 +1,952 @@
+{
+  "404" : {
+    "background_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Background Image"
+      }
+    },
+    "title_404" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Title 404",
+        "placeholder" : "Title 404"
+      }
+    },
+    "message_404" : {
+      "type" : "StructuredText",
+      "config" : {
+        "multi" : "paragraph, strong, em, hyperlink",
+        "allowTargetBlank" : true,
+        "label" : "Message 404",
+        "placeholder" : "Message 404"
+      }
+    },
+    "cta_button_text_404" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "CTA Button Text 404",
+        "placeholder" : "CTA Button Text 404"
+      }
+    },
+    "cta_button_link_404" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "CTA Button Link 404",
+        "placeholder" : "CTA Button Link 404"
+      }
+    }
+  },
+  "Main" : {
+    "layout" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading1",
+        "label" : "Layout",
+        "placeholder" : "Layout"
+      }
+    }
+  },
+  "Nav-bar" : {
+    "white_logo" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "White Logo"
+      }
+    },
+    "colored_logo" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Colored Logo"
+      }
+    },
+    "give_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Give Button Text",
+        "placeholder" : "Give Button Text"
+      }
+    },
+    "give_button_link" : {
+      "type" : "Link",
+      "config" : {
+        "label" : "Give Button Link",
+        "placeholder" : "Give Button Link"
+      }
+    },
+    "menu_items" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "link_title" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Link Title",
+              "placeholder" : "Link Title"
+            }
+          },
+          "link" : {
+            "type" : "Link",
+            "config" : {
+              "label" : "Link",
+              "placeholder" : "Link",
+              "allowTargetBlank" : true
+            }
+          }
+        },
+        "label" : "Menu Items"
+      }
+    }
+  },
+  "Footer" : {
+    "engage_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading2",
+        "label" : "Engage Title",
+        "placeholder" : "Engage Title"
+      }
+    },
+    "social_media_links" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "social_media_icon" : {
+            "type" : "Image",
+            "config" : {
+              "constraint" : { },
+              "thumbnails" : [ ],
+              "label" : "Social Media Icon"
+            }
+          },
+          "social_media_link" : {
+            "type" : "Link",
+            "config" : {
+              "allowTargetBlank" : true,
+              "label" : "Social Media Link",
+              "placeholder" : "Social Media Link"
+            }
+          }
+        },
+        "label" : "Social Media Links"
+      }
+    },
+    "quick_links_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Quick Links Title",
+        "placeholder" : "Quick Links Title"
+      }
+    },
+    "quick_links" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "link_title" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Link Title",
+              "placeholder" : "Link Title"
+            }
+          },
+          "link" : {
+            "type" : "Link",
+            "config" : {
+              "allowTargetBlank" : true,
+              "label" : "Link",
+              "placeholder" : "Link"
+            }
+          }
+        },
+        "label" : "Quick Links"
+      }
+    },
+    "get_involved_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Get Involved Title",
+        "placeholder" : "Get Involved Title"
+      }
+    },
+    "get_involved_links" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "link_title" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Link Title",
+              "placeholder" : "Link Title"
+            }
+          },
+          "link" : {
+            "type" : "Link",
+            "config" : {
+              "allowTargetBlank" : true,
+              "label" : "Link",
+              "placeholder" : "Link"
+            }
+          }
+        },
+        "label" : "Get Involved Links"
+      }
+    },
+    "contact_us_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Contact Us Title",
+        "placeholder" : "Contact Us Title"
+      }
+    },
+    "contact_details" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "contact_details1" : {
+            "type" : "StructuredText",
+            "config" : {
+              "multi" : "paragraph, strong, em, hyperlink",
+              "allowTargetBlank" : true,
+              "label" : "Contact Details",
+              "placeholder" : "Contact Details"
+            }
+          }
+        },
+        "label" : "Contact Details"
+      }
+    },
+    "logo1" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Logo"
+      }
+    },
+    "privacy_and_other_links" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "link_title" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Link Title",
+              "placeholder" : "Link Title"
+            }
+          },
+          "link" : {
+            "type" : "Link",
+            "config" : {
+              "allowTargetBlank" : true,
+              "label" : "Link",
+              "placeholder" : "Link"
+            }
+          }
+        },
+        "label" : "Privacy and Other Links"
+      }
+    },
+    "copyright_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Copyright text",
+        "placeholder" : "Copyright text"
+      }
+    },
+    "wli_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "WLI Text",
+        "placeholder" : "WLI Text"
+      }
+    },
+    "wli_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "WLI Link",
+        "placeholder" : "WLI Link"
+      }
+    }
+  },
+  "Announcement bar" : {
+    "enabled___disabled" : {
+      "type" : "Boolean",
+      "config" : {
+        "placeholder_false" : "Disabled",
+        "placeholder_true" : "Enabled",
+        "default_value" : true,
+        "label" : "Enabled / Disabled"
+      }
+    },
+    "announcement_bar_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Announcement Bar Text",
+        "placeholder" : "Announcement Bar Text"
+      }
+    },
+    "announcement_bar_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Announcement Bar Button Text",
+        "placeholder" : "Announcement Bar Button Text"
+      }
+    },
+    "announcement_bar_button_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "Announcement Bar Button Link",
+        "placeholder" : "Announcement Bar Button Link"
+      }
+    }
+  },
+  "Locale Popup" : {
+    "popup_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Popup Title",
+        "placeholder" : "Popup Title"
+      }
+    },
+    "popup_subtitle" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph, strong, em, hyperlink",
+        "allowTargetBlank" : true,
+        "label" : "Popup Subtitle",
+        "placeholder" : "Popup Subtitle"
+      }
+    },
+    "preferred_language_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Preferred Language Placeholder",
+        "placeholder" : "Preferred Language Placeholder"
+      }
+    },
+    "preferred_currency_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Preferred Currency Placeholder",
+        "placeholder" : "Preferred Currency Placeholder"
+      }
+    },
+    "your_country_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Your Country Placeholder",
+        "placeholder" : "Your Country Placeholder"
+      }
+    },
+    "cancel_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Cancel Button Text",
+        "placeholder" : "Cancel Button Text"
+      }
+    },
+    "save_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Save Button Text",
+        "placeholder" : "Save Button Text"
+      }
+    }
+  },
+  "App Download" : {
+    "download_app_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading2",
+        "label" : "Download App Title",
+        "placeholder" : "Download App Title"
+      }
+    },
+    "download_app_description" : {
+      "type" : "StructuredText",
+      "config" : {
+        "multi" : "paragraph, strong, em, hyperlink, list-item, o-list-item",
+        "allowTargetBlank" : true,
+        "label" : "Download App Description",
+        "placeholder" : "Download App Description"
+      }
+    },
+    "apple_download_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "Apple Download Link",
+        "placeholder" : "Apple Download Link"
+      }
+    },
+    "apple_download_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Apple Download Image"
+      }
+    },
+    "android_download_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "Android Download Link",
+        "placeholder" : "Android Download Link"
+      }
+    },
+    "android_download_image" : {
+      "type" : "Image",
+      "config" : {
+        "constraint" : { },
+        "thumbnails" : [ ],
+        "label" : "Android Download Image"
+      }
+    },
+    "learn_more_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Learn More Button Text",
+        "placeholder" : "Learn More Button Text"
+      }
+    },
+    "learn_more_button_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "Learn More Button Link",
+        "placeholder" : "Learn More Button Link"
+      }
+    }
+  },
+  "Subscribe" : {
+    "subscribe_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading2",
+        "label" : "Subscribe Title",
+        "placeholder" : "Subscribe Title"
+      }
+    },
+    "subscribe_description" : {
+      "type" : "StructuredText",
+      "config" : {
+        "multi" : "paragraph, strong, em, hyperlink, list-item, o-list-item",
+        "allowTargetBlank" : true,
+        "label" : "Subscribe Description",
+        "placeholder" : "Subscribe Description"
+      }
+    },
+    "subscribe_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Subscribe Placeholder",
+        "placeholder" : "Subscribe Placeholder"
+      }
+    },
+    "subscribe_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Subscribe Button Text",
+        "placeholder" : "Subscribe Button Text"
+      }
+    },
+    "privacy_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph, hyperlink",
+        "allowTargetBlank" : true,
+        "label" : "Privacy Text",
+        "placeholder" : "Privacy Text"
+      }
+    }
+  },
+  "Donation Module" : {
+    "homepage_donation_card_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Homepage Donation Card Title",
+        "placeholder" : "Homepage Donation Card Title"
+      }
+    },
+    "give_page_donation_card_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Give Page Donation Card Title",
+        "placeholder" : "Give Page Donation Card Title"
+      }
+    },
+    "select_amount_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Select Amount Text",
+        "placeholder" : "Select Amount Text"
+      }
+    },
+    "amounts" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "amount" : {
+            "type" : "Number",
+            "config" : {
+              "label" : "Amount",
+              "placeholder" : "Amount"
+            }
+          }
+        },
+        "label" : "Amounts"
+      }
+    },
+    "other_amount_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Other amount Placeholder",
+        "placeholder" : "Other amount Placeholder"
+      }
+    },
+    "dedicate_donation_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Dedicate Donation Placeholder",
+        "placeholder" : "Dedicate Donation Placeholder"
+      }
+    },
+    "donation_dedication_options" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "dedication_fund" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Dedication Fund",
+              "placeholder" : "Dedication Fund"
+            }
+          }
+        },
+        "label" : "Donation Dedication Options"
+      }
+    },
+    "donate_now_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Donate Now Button Text",
+        "placeholder" : "Donate Now Button Text"
+      }
+    },
+    "add_to_basket_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Add to Basket Button Text",
+        "placeholder" : "Add to Basket Button Text"
+      }
+    },
+    "donation_basket_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Donation Basket Title",
+        "placeholder" : "Donation Basket Title"
+      }
+    },
+    "edit_amount_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Edit Amount Text",
+        "placeholder" : "Edit Amount Text"
+      }
+    },
+    "total_amount_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Total Amount Text",
+        "placeholder" : "Total Amount Text"
+      }
+    },
+    "proceed_to_pay_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Proceed to Pay Button Text",
+        "placeholder" : "Proceed to Pay Button Text"
+      }
+    },
+    "personal_details_popup_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Personal Details Popup Title",
+        "placeholder" : "Personal Details Popup Title"
+      }
+    },
+    "your_details_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Your Details Title",
+        "placeholder" : "Your Details Title"
+      }
+    },
+    "first_name_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "First Name Placeholder",
+        "placeholder" : "First Name Placeholder"
+      }
+    },
+    "last_name_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Last Name Placeholder",
+        "placeholder" : "Last Name Placeholder"
+      }
+    },
+    "address_1_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Address 1 Placeholder",
+        "placeholder" : "Address 1 Placeholder"
+      }
+    },
+    "address_2_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Address 2 Placeholder",
+        "placeholder" : "Address 2 Placeholder"
+      }
+    },
+    "city_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "City Placeholder",
+        "placeholder" : "City Placeholder"
+      }
+    },
+    "state_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "State Placeholder",
+        "placeholder" : "State Placeholder"
+      }
+    },
+    "zipcode_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Zipcode Placeholder",
+        "placeholder" : "Zipcode Placeholder"
+      }
+    },
+    "country_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Country Placeholder",
+        "placeholder" : "Country Placeholder"
+      }
+    },
+    "email_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Email Placeholder",
+        "placeholder" : "Email Placeholder"
+      }
+    },
+    "code_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Code Placeholder",
+        "placeholder" : "Code Placeholder"
+      }
+    },
+    "phone_number_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Phone Number Placeholder",
+        "placeholder" : "Phone Number Placeholder"
+      }
+    },
+    "extra_impact_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Extra Impact Title",
+        "placeholder" : "Extra Impact Title"
+      }
+    },
+    "extra_impact_checkboxes" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "checkbox_title" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Checkbox Title",
+              "placeholder" : "Checkbox Title"
+            }
+          },
+          "checkbox_text" : {
+            "type" : "StructuredText",
+            "config" : {
+              "multi" : "paragraph, strong, em, hyperlink",
+              "allowTargetBlank" : true,
+              "label" : "Checkbox Text",
+              "placeholder" : "Checkbox Text"
+            }
+          }
+        },
+        "label" : "Extra Impact Checkboxes"
+      }
+    },
+    "select_payment_method_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Select Payment Method Title",
+        "placeholder" : "Select Payment Method Title"
+      }
+    },
+    "payment_methods" : {
+      "type" : "Group",
+      "config" : {
+        "fields" : {
+          "payment_method" : {
+            "type" : "StructuredText",
+            "config" : {
+              "single" : "paragraph",
+              "label" : "Payment Method",
+              "placeholder" : "Payment Method"
+            }
+          }
+        },
+        "label" : "Payment Methods"
+      }
+    },
+    "proceed_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Proceed Button Text",
+        "placeholder" : "Proceed Button Text"
+      }
+    },
+    "privacy_text1" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph, hyperlink",
+        "allowTargetBlank" : true,
+        "label" : "Privacy Text",
+        "placeholder" : "Privacy Text"
+      }
+    }
+  },
+  "Contact Form" : {
+    "contact_form_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading3",
+        "label" : "Contact Form Title",
+        "placeholder" : "Contact Form Title"
+      }
+    },
+    "your_country_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Your Country Placeholder Contact",
+        "placeholder" : "Your Country Placeholder Contact"
+      }
+    },
+    "first_name_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "First Name Placeholder Contact",
+        "placeholder" : "First Name Placeholder Contact"
+      }
+    },
+    "last_name_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Last Name Placeholder Contact",
+        "placeholder" : "Last Name Placeholder Contact"
+      }
+    },
+    "email_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Email Placeholder Contact",
+        "placeholder" : "Email Placeholder Contact"
+      }
+    },
+    "code_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Code Placeholder Contact",
+        "placeholder" : "Code Placeholder Contact"
+      }
+    },
+    "phone_number_placeholder_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Phone Number Placeholder Contact",
+        "placeholder" : "Phone Number Placeholder Contact"
+      }
+    },
+    "message_placeholder" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Message Placeholder",
+        "placeholder" : "Message Placeholder"
+      }
+    },
+    "send_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Send Button Text",
+        "placeholder" : "Send Button Text"
+      }
+    },
+    "privacy_text_contact" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph, hyperlink",
+        "allowTargetBlank" : true,
+        "label" : "Privacy Text Contact",
+        "placeholder" : "Privacy Text Contact"
+      }
+    }
+  },
+  "General" : {
+    "project_learn_more_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Project Learn More Button Text",
+        "placeholder" : "Project Learn More Button Text"
+      }
+    },
+    "project_hero_donate_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Project Hero Donate Button Text",
+        "placeholder" : "Project Hero Donate Button Text"
+      }
+    },
+    "blog_read_more_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Blog Read More Button Text",
+        "placeholder" : "Blog Read More Button Text"
+      }
+    },
+    "event_more_details_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Event More Details Button Text",
+        "placeholder" : "Event More Details Button Text"
+      }
+    },
+    "past_event_watch_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Past Event Watch Button Text",
+        "placeholder" : "Past Event Watch Button Text"
+      }
+    },
+    "related_stories_section_title" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "heading2",
+        "label" : "Related Stories Section Title",
+        "placeholder" : "Related Stories Section Title"
+      }
+    },
+    "related_stories_section_subtitle" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Related Stories Section Subtitle",
+        "placeholder" : "Related Stories Section Subtitle"
+      }
+    },
+    "related_stories_section_button_text" : {
+      "type" : "StructuredText",
+      "config" : {
+        "single" : "paragraph",
+        "label" : "Related Stories Section Button Text",
+        "placeholder" : "Related Stories Section Button Text"
+      }
+    },
+    "related_stories_section_button_link" : {
+      "type" : "Link",
+      "config" : {
+        "allowTargetBlank" : true,
+        "label" : "Related Stories Section Button Link",
+        "placeholder" : "Related Stories Section Button Link"
+      }
+    }
+  }
+}

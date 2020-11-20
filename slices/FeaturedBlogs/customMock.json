@@ -1,0 +1,234 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "FeaturedBlogs",
+  "primary": {
+   "title": [
+      {
+        "type": "heading2",
+        "text": "A Closer Look",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Explore the cultures, traditions, and unique challenges that make our work both complex and rewarding.",
+        "spans": []
+      }
+    ],
+   "ctaButtonText":[
+      {
+         "type":"paragraph",
+         "text":"View All",
+         "spans":[
+            
+         ]
+      }
+   ],
+   "ctaButtonLink":{
+      "id":"X3CePxAAAEZcp3dP",
+      "type":"page",
+      "tags":[
+         
+      ],
+      "slug":"learn",
+      "lang":"en-us",
+      "uid":"learn",
+      "link_type":"Document",
+      "isBroken":false
+   },
+   "showLatestBlogs": false
+  },
+  "items": [
+    {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"Science Equipment for Special-Ed Kids?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/with-love-charity/fa1d7205-6b74-4f2c-adfa-ac3e26edd8d5_b9f3f522-1bdd-43fb-a515-1b3bdbcfe164_SchoolbagsEthiopianChildren0019.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   },
+   {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"The Lifeblood of Service to the Community?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/with-love-charity/84858f9b-5424-439b-b264-4996f3d12cc0_05431058-1e03-41c4-ab6d-2eaf1b1ea834_Medical%2BDisaster%2BRelief.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   },
+   {
+      "blogPost":{
+         "id":"X4NSihUAACkApTvQ",
+         "type":"blog_post",
+         "tags":[
+            
+         ],
+         "slug":"what-are-the-jewish-fall-holidays",
+         "lang":"en-us",
+         "uid":"what-are-the-jewish-fall-holidays",
+         "data":{
+            "title":[
+               {
+                  "type":"heading1",
+                  "text":"Inspiring Hope in the Face of Crisis?",
+                  "spans":[
+                     
+                  ]
+               }
+            ],
+            "date":"2020-08-28",
+            "blog_topics":[
+               {
+                  "blog_topic":{
+                     "id":"X4NQlhUAAGuZpTL7",
+                     "type":"blog_topic",
+                     "tags":[
+                        
+                     ],
+                     "slug":"teachings",
+                     "lang":"en-us",
+                     "uid":"teachings",
+                     "data":{
+                        "topic_name":[
+                           {
+                              "type":"heading1",
+                              "text":"Teachings",
+                              "spans":[
+                                 
+                              ]
+                           }
+                        ]
+                     },
+                     "link_type":"Document",
+                     "isBroken":false
+                  }
+               }
+            ],
+            "featured_image":{
+               "dimensions":{
+                  "width":3000,
+                  "height":2000
+               },
+               "alt":null,
+               "copyright":null,
+               "url":"https://images.prismic.io/with-love-charity/62bf6033-a589-4a0b-bea4-1d7be3867a97_eb7b691b-fa2b-44d2-8174-5f37c9fa74ba_VFI_Education020.jpg?auto=compress,format"
+            }
+         },
+         "link_type":"Document",
+         "isBroken":false
+      }
+   }
+  ],
+  "slice_type": "featured_blogs"
+}]

@@ -1,0 +1,36 @@
+{
+  "id": "short_hero",
+  "type": "SharedSlice",
+  "name": "ShortHero",
+  "description": "ShortHero",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ShortHero",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Title",
+            "allowTargetBlank": true,
+            "single": "heading1"
+          },
+          "type": "StructuredText"
+        },
+        "subtitle": {
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "Subtitle",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

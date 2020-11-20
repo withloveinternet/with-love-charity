@@ -1,0 +1,116 @@
+{
+  "id": "featured_work",
+  "type": "SharedSlice",
+  "name": "FeaturedWork",
+  "description": "FeaturedWork",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "FeaturedWork",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "subtitle": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Subtitle",
+            "placeholder": "Subtitle"
+          }
+        },
+        "featuredWorkCategory1": {
+          "type": "Link",
+          "config": {
+            "select": "document",
+            "customtypes": [
+              "project_category"
+            ],
+            "label": "Featured Work Category 1",
+            "placeholder": "Featured Work Category 1"
+          }
+        },
+        "featuredWorkCategory2": {
+          "type": "Link",
+          "config": {
+            "select": "document",
+            "label": "Featured Work Category 2",
+            "placeholder": "Featured Work Category 2"
+          }
+        },
+        "featuredWorkCategory3": {
+          "type": "Link",
+          "config": {
+            "select": "document",
+            "label": "Featured Work Category 3",
+            "placeholder": "Featured Work Category 3"
+          }
+        },
+        "featuredWorkCategory4": {
+          "type": "Link",
+          "config": {
+            "select": "document",
+            "label": "Featured Work Category 4",
+            "placeholder": "Featured Work Category 4"
+          }
+        },
+        "viewAllButtonText": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "View All Button Text",
+            "placeholder": "View All Button Text"
+          }
+        },
+        "viewAllButtonLink": {
+          "type": "Link",
+          "config": {
+            "label": "View All Button Link",
+            "placeholder": "View All Button Link"
+          }
+        },
+        "showAllProjects": {
+          "type": "Boolean",
+          "config": {
+            "label": "Show All Projects",
+            "id": "showAllProjects",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        },
+        "showAllCategories": {
+          "type": "Boolean",
+          "config": {
+            "label": "Show All Categories",
+            "id": "showAllCategories",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      },
+      "items": {
+        "featuredProject": {
+          "type": "Link",
+          "config": {
+            "select": "document",
+            "label": "Featured Project",
+            "placeholder": "Featured Project"
+          }
+        }
+      }
+    }
+  ]
+}

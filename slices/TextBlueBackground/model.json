@@ -1,0 +1,71 @@
+{
+  "id": "text_blue_background",
+  "type": "SharedSlice",
+  "name": "TextBlueBackground",
+  "description": "TextBlueBackground",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TextBlueBackground",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Title",
+            "allowTargetBlank": true,
+            "single": "heading2,strong"
+          },
+          "type": "StructuredText"
+        },
+        "subtitle": {
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "Subtitle",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "Description",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "highlightedText": {
+          "type": "StructuredText",
+          "config": {
+            "multi": "paragraph, strong, em, hyperlink",
+            "allowTargetBlank": true,
+            "label": "Highlighted Text",
+            "placeholder": "Highlighted Text"
+          }
+        },
+        "ctaButtonText": {
+          "config": {
+            "label": "CTA Button Text ",
+            "placeholder": "CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "ctaButtonLink": {
+          "config": {
+            "label": "CTA Button Link",
+            "placeholder": "CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

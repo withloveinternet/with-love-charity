@@ -1,0 +1,54 @@
+{
+  "id": "call_to_action",
+  "type": "SharedSlice",
+  "name": "CallToAction",
+  "description": "CallToAction",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "CallToAction",
+      "primary": {
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "Description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "ctaButtonText": {
+          "config": {
+            "label": "CTA Button Text",
+            "placeholder": "CTA Button Text",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "ctaButtonLink": {
+          "config": {
+            "label": "CTA Button Link",
+            "placeholder": "CTA Button Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        },
+        "pattern": {
+          "config": {
+            "label": "Background Pattern",
+            "placeholder": "Select Background Pattern",
+            "placeholder_false": "Small Gray Open Circles",
+            "placeholder_true": "Big Circles",
+            "default_value": true
+          },
+          "type": "Boolean"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

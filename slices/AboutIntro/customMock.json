@@ -1,0 +1,74 @@
+[{
+  "id": "default-slice",
+  "name": "Default slice",
+  "docURL": "...",
+  "version": "sktwi1xtmkfgx8626",
+  "description": "AboutIntro",
+  "primary": {
+    "highlightedText": [
+      {
+        "type": "paragraph",
+        "text": "Looking for a reliable way to give aid to the people who need it most?",
+        "spans": [
+          {
+            "start": 14,
+            "end": 26,
+            "type": "label",
+            "data": {
+              "label": "label"
+            }
+          }
+        ]
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "We are your hands, spreading love, compassion, and practical help around the world. With feet on the ground, we've operated in partnership with government and social services from over 25 nations—impacting more than ONE MILLION lives.",
+        "spans": []
+      }
+    ],
+    "boldText": [
+      {
+        "type": "paragraph",
+        "text": "You can help restore lives and decrease poverty!",
+        "spans": []
+      }
+    ],
+    "primaryCtaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Contact Us",
+        "spans": []
+      }
+    ],
+    "primaryCtaButtonLink": {
+      "id": "X7be2xIAALkqsXMS",
+      "type": "page",
+      "tags": [],
+      "slug": "contact-us",
+      "lang": "en-us",
+      "uid": "contact",
+      "link_type": "Document",
+      "isBroken": false
+    },
+    "secondaryCtaButtonText": [
+      {
+        "type": "paragraph",
+        "text": "Our Work",
+        "spans": []
+      }
+    ],
+    "secondaryCtaButtonLink": {
+      "id": "X7ZlABIAALwJr1tb",
+      "type": "page",
+      "tags": [],
+      "slug": "work--projects",
+      "lang": "en-us",
+      "uid": "projects",
+      "link_type": "Document",
+      "isBroken": false
+    }
+  },
+  "slice_type": "about_intro"
+}]

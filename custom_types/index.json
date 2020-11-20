@@ -1,0 +1,38 @@
+[
+  {
+    "id": "page",
+    "name": "Page",
+    "repeatable": true,
+    "value": "page.json"
+  },
+  {
+    "id": "project",
+    "name": "Project",
+    "repeatable": true,
+    "value": "project.json"
+  },
+  {
+    "id": "project_category",
+    "name": "Project Category",
+    "repeatable": true,
+    "value": "project_category.json"
+  },
+  {
+    "id": "layout",
+    "name": "Layout",
+    "repeatable": false,
+    "value": "layout.json"
+  },
+  {
+    "id": "blog_post",
+    "name": "Blog Post",
+    "repeatable": true,
+    "value": "blog_post.json"
+  },
+  {
+    "id": "blog_topic",
+    "name": "Blog Topic",
+    "repeatable": true,
+    "value": "blog_topic.json"
+  }
+]
