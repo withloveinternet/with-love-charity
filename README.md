@@ -1,4 +1,11 @@
 # With Love Charity - Prismic Template
+We believe that SliceMachine is the entry point and stepping stone towards Prismic Templates - allowing developers to create beautifully styled websites easily with a click of a button.
+
+As WITH LOVE INTERNET, we wanted to create a complete example to demonstrate Prismic’s SliceMachine incredible capabilities. We hope that this example helps the community and Prismic develop and expand.
+
+We created this base charity website template as our entry to the slice contest and as an expression of our love for purpose-driven organizations and community outreach.
+
+#with:heart:internet
 
 ## Preview
 [![Template Preview](https://with-love-charity.vercel.app/homepage-screenshot.png)](https://with-love-charity.vercel.app/)
