@@ -26,7 +26,7 @@ export default function MyApp(appProps) {
   return (
     <React.Fragment>
       <Head>
-        <title>My page</title>
+        <title>Helping Restore Lives | WITH LOVE Charity</title>
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
         {layout.favicon && layout.favicon.large && <link rel="icon" type="image/png" sizes="96x96" href={layout.favicon.large.url} />}
         {layout.favicon && layout.favicon.medium && <link rel="icon" type="image/png" sizes="32x32" href={layout.favicon.medium.url} />}

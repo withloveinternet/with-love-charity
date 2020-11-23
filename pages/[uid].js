@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { Client } from '../prismic'
 import SliceZone from 'next-slicezone'
+import Head from '../components/Head'
 import { useGetStaticProps, useGetStaticPaths } from 'next-slicezone/hooks'
 import { fetchAdditionalData } from '../utils/fetch-additional-data'
 import { AdditionalDataProvider } from '../utils/additional-data-context'
@@ -17,9 +18,12 @@ const Page = (props) => {
   }, [data])
 
   return (
-    <AdditionalDataProvider value={props.additionalData}>
-      <SliceZone {...props} resolver={resolver} />
-    </AdditionalDataProvider>
+    <>
+      <Head data={data} />
+      <AdditionalDataProvider value={props.additionalData}>
+        <SliceZone {...props} resolver={resolver} />
+      </AdditionalDataProvider>
+    </>
   )
 }
 

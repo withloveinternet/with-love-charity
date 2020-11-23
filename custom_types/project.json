@@ -56,20 +56,18 @@
     }
   },
   "SEO" : {
-    "meta_title" : {
-      "type" : "StructuredText",
-      "config" : {
-        "single" : "heading1",
-        "label" : "Meta Title",
-        "placeholder" : "Meta Title"
+    "meta_title": {
+      "type": "Text",
+      "config": {
+        "label": "Meta Title",
+        "placeholder": "My title for Search Engine"
       }
     },
-    "meta_description" : {
-      "type" : "StructuredText",
-      "config" : {
-        "single" : "paragraph",
-        "label" : "Meta Description",
-        "placeholder" : "Meta Description"
+    "meta_description": {
+      "type": "Text",
+      "config": {
+        "label": "Meta Description",
+        "placeholder": "The description that will appear in search engine"
       }
     },
     "og_image" : {

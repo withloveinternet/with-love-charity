@@ -11,14 +11,9 @@ const ThumbnailVideo = ({ classes, thumbnailVideoUrl, thumbnailVideoAlt }) => {
   )
 }
 
-// TitleSubtitle.defaultProps = {
-//   title: '',
-//   subtitle: '',
-// }
-
 ThumbnailVideo.propTypes = {
   classes: PropTypes.objectOf(PropTypes.any).isRequired,
-  thumbnailVideoUrl: PropTypes.objectOf(PropTypes.string).isRequired,
-  thumbnailVideoAlt: PropTypes.objectOf(PropTypes.string).isRequired,
+  thumbnailVideoUrl: PropTypes.string,
+  thumbnailVideoAlt: PropTypes.string,
 }
 export default withStyles(style)(ThumbnailVideo)

@@ -8,7 +8,7 @@ import style from './style'
 import { structuredTextPropTypes, imagePropTypes } from '../../utils/prop-types'
 import TitleSubtitle from '../../components/TitleSubtitle'
 
-const WorkDetailsGallery = ({ slice, classes }) => {
+const ImageGallery = ({ slice, classes }) => {
   const { primary, items } = slice
 
   return (
@@ -18,8 +18,8 @@ const WorkDetailsGallery = ({ slice, classes }) => {
         subtitle={RichText.asText(primary.sectionSubtitle)}
       />
       <Grid container spacing={4} className="galleryContainer">
-        {items.map((item) => (
-          <Grid item xs={12} sm={6} md={4}>
+        {items.map((item, index) => (
+          <Grid item xs={12} sm={6} md={4} key={index}>
             <img src={item.photo.url} alt={item.photo.alt} />
           </Grid>
         ))}
@@ -28,7 +28,7 @@ const WorkDetailsGallery = ({ slice, classes }) => {
   )
 }
 
-WorkDetailsGallery.propTypes = {
+ImageGallery.propTypes = {
   slice: PropTypes.shape({
     primary: PropTypes.shape({
       sectionTitle: structuredTextPropTypes,
@@ -43,4 +43,4 @@ WorkDetailsGallery.propTypes = {
   classes: PropTypes.objectOf(PropTypes.any).isRequired,
 }
 
-export default withStyles(style)(WorkDetailsGallery)
+export default withStyles(style)(ImageGallery)

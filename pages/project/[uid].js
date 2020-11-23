@@ -5,6 +5,7 @@ import { useGetStaticProps, useGetStaticPaths } from 'next-slicezone/hooks'
 import { fetchAdditionalData } from '../../utils/fetch-additional-data'
 import { AdditionalDataProvider } from '../../utils/additional-data-context'
 import { useLayout } from '../../utils/layout-context'
+import Head from '../../components/Head'
 import resolver from '../../sm-resolver.js'
 
 const Project = (props) => {
@@ -17,9 +18,12 @@ const Project = (props) => {
   }, [data])
 
   return (
-    <AdditionalDataProvider value={props.additionalData}>
-      <SliceZone {...props} resolver={resolver} />
-    </AdditionalDataProvider>
+    <>
+      <Head data={data} />
+      <AdditionalDataProvider value={props.additionalData}>
+        <SliceZone {...props} resolver={resolver} />
+      </AdditionalDataProvider>
+    </>
   )
 }
 

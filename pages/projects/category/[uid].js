@@ -5,6 +5,7 @@ import Container from '@material-ui/core/Container'
 import { RichText } from 'prismic-reactjs'
 import { useLayout } from '../../../utils/layout-context'
 import Projects from '../../../components/Projects'
+import Head from '../../../components/Head'
 
 const ProjectCategory = (props) => {
   const { currentCategory, categories, allProjectsBasedOnCategory } = props;
@@ -15,17 +16,20 @@ const ProjectCategory = (props) => {
   }, [])
 
   return (
-    <Container>
-      {currentCategory && allProjectsBasedOnCategory && categories && 
-        <Projects 
-          title={RichText.asText(currentCategory.data.title)}
-          subtitle={RichText.asText(currentCategory.data.subtitle)}
-          projects={allProjectsBasedOnCategory}
-          categories={categories}
-          viewAllCategory={true}
-        />
-      }
-    </Container>
+    <>
+      <Head data={currentCategory.data} />
+      <Container>
+        {currentCategory && allProjectsBasedOnCategory && categories && 
+          <Projects 
+            title={RichText.asText(currentCategory.data.title)}
+            subtitle={RichText.asText(currentCategory.data.subtitle)}
+            projects={allProjectsBasedOnCategory}
+            categories={categories}
+            viewAllCategory={true}
+          />
+        }
+      </Container>
+    </>
   )
 }
 
