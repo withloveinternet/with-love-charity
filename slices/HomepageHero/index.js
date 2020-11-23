@@ -15,8 +15,6 @@ const HomepageHero = (props) => {
   const { primary } = slice
   const [openModal, setOpenModal] = useState(false)
 
-  console.log(primary);
-
   const styles = {}
   if (primary.backgroundImage) {
     styles.backgroundImage = `url(${primary.backgroundImage.url})`

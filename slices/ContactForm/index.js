@@ -13,8 +13,6 @@ import style from './style'
 const ContactForm = ({ classes, slice }) => {
   const { primary, items } = slice
 
-  console.log(primary);
-
   return (
     <Container className={classes.contactForm}>
       <Grid container spacing="4">
