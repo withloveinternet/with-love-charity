@@ -65,3 +65,27 @@ Open your browser at http://localhost:9999. Now you can select the slices you wa
 ![Prismic Slices](https://with-love-charity.vercel.app/SliceMachine-UI.png)
 
 ![Push Prismic Slice](https://with-love-charity.vercel.app/localhost-9999-slices-AboutIntro.png)
+
+### Add content to prismic
+
+Open your browser at https://<your-prismic-repository-name>.prismic.io/documents
+  
+The prismic bootstrap command automatically added the necessary custom_types to Prismic. Now we only have to add content to these custom types. In the example below we add content to the "Layout" and "Page" which are necessary to create run the website. Please follow the steps below in how to add conent
+
+![Add Prismic Document](https://with-love-charity.vercel.app/prismic-io-with-love-charity-add-document.png)
+
+![Add Layout](https://with-love-charity.vercel.app/prismic-io-with-love-charity-add-layout.png)
+
+![Add Content to layout](https://with-love-charity.vercel.app/prismic-io-with-love-charity-layout-content.png)
+
+![Add Prismic Document](https://with-love-charity.vercel.app/prismic-io-with-love-charity-add-document.png)
+
+![Add Page](https://with-love-charity.vercel.app/prismic-io-with-love-charity-add-page.png)
+
+![Add Content to Page](https://with-love-charity.vercel.app/prismic-io-with-love-charity.png)
+
+### Run dev
+
+```bash
+$ yarn dev
+```
