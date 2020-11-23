@@ -17,7 +17,7 @@ const ProjectCategory = (props) => {
 
   return (
     <>
-      <Head data={currentCategory.data} />
+      {currentCategory && <Head data={currentCategory.data} />}
       <Container>
         {currentCategory && allProjectsBasedOnCategory && categories && 
           <Projects 
