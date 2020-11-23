@@ -20,12 +20,16 @@ const Download = ({ classes }) => {
         {RichText.render(layout.download_app_description)}
       </div>
       <div className="downloadApp">
-        <CustomLink link={layout.apple_download_link} className="playStore">
-          <img src="/googlePlay.png" alt="google Play" />
-        </CustomLink>
-        <CustomLink link={layout.apple_download_link} className="appStore">
-          <img src="/appStore.png" alt="app Play" />
-        </CustomLink>
+        {layout.apple_download_image && 
+          <CustomLink link={layout.apple_download_link} className="playStore">
+            <img src={layout.apple_download_image.url} alt={layout.apple_download_image.alt} />
+          </CustomLink>
+        }
+        {layout.android_download_image && 
+          <CustomLink link={layout.apple_download_link} className="appStore">
+            <img src={layout.android_download_image.url} alt={layout.android_download_image.alt} />
+          </CustomLink>
+        } 
       </div>
       <CustomLink link={layout.learn_more_button_link} className="appStore">
         <Button variant="contained" className="leanrMoreBtn">
