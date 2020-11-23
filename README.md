@@ -1,4 +1,9 @@
-# With Love Charity Template Using Prismic Slice Machine
+# With Love Charity - Prismic Template
+
+## Preview
+[![Template Preview](https://with-love-charity.vercel.app/homepage-screenshot.png)](https://with-love-charity.vercel.app/)
+
+**[View Live Preview](https://with-love-charity.vercel.app/)**
 
 ## ☑️ &nbsp;Submission Checklist
 
