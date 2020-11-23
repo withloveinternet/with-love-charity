@@ -7,7 +7,7 @@
 
 **[View Storybook](https://with-love-charity.netlify.app/)**
 
-## 🏁 &nbsp;Getting Started
+## Get Started!
 
 Here's a step-by-step tutorial to get started using the With Love Charity Template.
 
@@ -43,3 +43,25 @@ When logged in, you can then **bootstrap** your Slice Machine project, this will
 $ yarn prismic sm --bootstrap
 # The CLI will then prompt you for a Prismic repository name...
 ```
+
+### Launching the Slice Builder
+
+To launch the Slice Builder you need to run 2 terminals: one for Storybook, one for the Slice Builder itself.
+
+```bash
+# On a first terminal
+$ yarn storybook # or with npm: `$ npm run storybook`
+
+# On the second terminal
+$ yarn slicemachine
+```
+
+This will launch Storybook on port `8888` and the Slice Builder on port `9999`
+
+### Select the slices you want and push them to Prismic
+
+Open your browser at http://localhost:9999. Now you can select the slices you want and push them to Prismic
+
+![Prismic Slices](https://with-love-charity.vercel.app/SliceMachine-UI.png)
+
+![Push Prismic Slice](https://with-love-charity.vercel.app/localhost-9999-slices-AboutIntro.png)
