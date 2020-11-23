@@ -8,6 +8,7 @@
     "start": "next start",
     "slicemachine": "start-slicemachine --port 9999",
     "storybook": "start-storybook -s ./public -p 8888",
+    "prismic": "prismic",
     "build-storybook": "build-storybook -s ./public"
   },
   "dependencies": {
@@ -25,6 +26,7 @@
     "react-player": "^2.7.0"
   },
   "devDependencies": {
+    "prismic-cli": "3.8.3-beta.0",
     "@storybook/addon-actions": "^6.1.1",
     "@storybook/react": "6.1.1",
     "babel-loader": "^8.1.0",
