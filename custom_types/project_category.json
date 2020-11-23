@@ -50,11 +50,14 @@
       }
     },
     "og_image" : {
-      "type" : "Image",
-      "config" : {
-        "constraint" : { },
-        "thumbnails" : [ ],
-        "label" : "OG Image"
+      "type": "Image",
+      "config": {
+        "constraint": {
+          "width": 1200,
+          "height": 627
+        },
+        "thumbnails": [],
+        "label": "OG Image"
       }
     }
   }

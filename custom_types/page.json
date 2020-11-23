@@ -30,32 +30,15 @@
         "placeholder": "The description that will appear in search engine"
       }
     },
-    "social_cards": {
-      "type": "Group",
+    "og_image": {
+      "type": "Image",
       "config": {
-        "fields": {
-          "social_card_image": {
-            "type": "Image",
-            "config": {
-              "constraint": {},
-              "thumbnails": [],
-              "label": "Social Card Image"
-            }
-          },
-          "social_card_title": {
-            "type": "Text",
-            "config": {
-              "label": "Social Card TItle"
-            }
-          },
-          "social_card_description": {
-            "type": "Text",
-            "config": {
-              "label": "Social card description"
-            }
-          }
+        "constraint": {
+          "width": 1200,
+          "height": 627
         },
-        "label": "Social Cards - Facebook & Twitter"
+        "thumbnails": [],
+        "label": "OG Image"
       }
     }
   }
