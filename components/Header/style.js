@@ -4,6 +4,7 @@ const styles = (theme) => ({
     backgroundPosition: 'center',
     backgroundSize: 'cover',
     position: 'relative',
+    zIndex: 10
   },
   header: {
     display: 'flex',
